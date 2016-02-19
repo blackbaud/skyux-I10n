@@ -21,15 +21,15 @@
     },
     "checklist_select_all": {
         "_description": "Text for the link in a checklist to select all items.",
-        "message": "Select all"
+        "message": "Select all items"
     },
     "checklist_clear_all": {
         "_description": "Text for the link in a checklist to clear selections.",
-        "message": "Clear all"
+        "message": "Clear all items"
     },
     "checklist_no_items": {
         "_description": "Text in a checklist when no items are shown based on the current filter.",
-        "message": "No items found"
+        "message": "No items found in the list"
     },
     "grid_back_to_top": {
         "_description": "Text for link in grid to scroll back to the top.",
@@ -45,7 +45,7 @@
     },
     "grid_column_picker_header": {
         "_description": "Header text for the grid column picker screen",
-        "message": "Choose columns to show in the list"
+        "message": "Choose columns to show"
     },
     "grid_column_picker_name_header": {
         "_description": "In the column picker, the header for the column showing the names of the columns to include in the grid.",
