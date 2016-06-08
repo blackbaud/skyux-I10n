@@ -38,6 +38,15 @@
   "checklist_no_items": {
     "message": "[Ñö îţéɱš ƒöûñð îñ ţĥîš ļîšţ-------------- П國カ내]"
   },
+  "checklist_check_title": {
+    "message": "[Šéļéçţ îţéɱ---- П國カ내]"
+  },
+  "checklist_search_label": {
+    "message": "[Šéåŕçĥ----- П國カ내]"
+  },
+  "checklist_categories_label": {
+    "message": "[Çåţéĝöŕîéš------------- П國カ내]"
+  },
   "chevron_collapse": {
     "message": "[Çöļļåþšé--------- П國カ내]"
   },
