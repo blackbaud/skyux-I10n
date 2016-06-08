@@ -1,11 +1,11 @@
 {
     "action_bar_actions": {
         "_description": "The label for the actions dropdown on the action button bar",
-        "message": "Actions"
+        "message": "Acties"
     },
     "alert_close": {
         "_description": "Screen reader text for the close button on alerts",
-        "message": "Close"
+        "message": "Sluiten"
     },
     "autonumeric_abbr_billions": {
         "_description": "The suffix to show after an abbreviated value in the billions (e.g. $1.2b)",
@@ -19,97 +19,53 @@
         "_description": "The suffix to show after an abbreviated value in the thousands (e.g. $1.2k)",
         "message": "k"
     },
-    "avatar_error_not_image_description": {
-        "_description": "Message description displayed when the user attempts to upload an avatar file that is not a valid image",
-        "message": "Please choose a file that is a valid image."
-    },
-    "avatar_error_not_image_title": {
-        "_description": "Message title displayed when the user attempts to upload an avatar file that is not a valid image",
-        "message": "File is not an image."
-    },
-    "avatar_error_too_large_description": {
-        "_description": "Message description displayed when the user attempts to upload an avatar image with a file size that is too large",
-        "message": "Please choose an image that is less than {0}."
-    },
-    "avatar_error_too_large_title": {
-        "_description": "Message title displayed when the user attempts to upload an avatar image with a file size that is too large",
-        "message": "File is too large."
-    },
     "checklist_select_all": {
         "_description": "Text for the link in a checklist to select all items.",
-        "message": "Select all"
+        "message": "Alles selecteren"
     },
     "checklist_clear_all": {
         "_description": "Text for the link in a checklist to clear selections.",
-        "message": "Clear all"
-    },
-    "checklist_only_selected_items": {
-        "_description": "Text for the checkbox in a checklist that toggles only showing selected items.",
-        "message": "Only show selected items"
+        "message": "Alles wissen"
     },
     "checklist_no_items": {
         "_description": "Text in a checklist when no items are shown based on the current filter.",
-        "message": "No items found"
-    },
-    "checklist_check_title": {
-        "_description": "Title for the empty header in the checkbox column for the checklist",
-        "message": "Select item"
-    },
-    "checklist_search_label": {
-        "_description": "Label for the checklist search box",
-        "message": "Search"
-    },
-    "checklist_categories_label": {
-        "_description": "Label for the checklist categories dropdown",
-        "message": "Categories"
-    },
-    "chevron_collapse": {
-        "_description": "Screen reader text for when clicking the chevron would collapse the corresponding section",
-        "message": "Collapse"
-    },
-    "chevron_expand": {
-        "_description": "Screen reader text for when clicking the chevron would expand the corresponding section",
-        "message": "Expand"
-    },
-    "context_menu_default_label": {
-        "_description": "The label on the context menu button used for screen readers when the consumer has not specified a label",
-        "message": "Context menu"
+        "message": "Geen items gevonden"
     },
     "grid_back_to_top": {
         "_description": "Text for link in grid to scroll back to the top.",
-        "message": "Back to top"
+        "message": "Terug naar boven"
     },
     "grid_column_picker_all_categories": {
-        "_description": "Text for category filters used to indicate that all columns should be shown in the column picker",
-        "message": "All categories"
+        "_description": "Button text for category filters used to indicate that all columns should be shown in the column picker",
+        "message": "Alle"
     },
     "grid_column_picker_description_header": {
         "_description": "In the column picker, the header for the column showing the description of the columns to include in the grid.",
-        "message": "Description"
+        "message": "Beschrijving"
     },
     "grid_column_picker_header": {
         "_description": "Header text for the grid column picker screen",
-        "message": "Choose columns to show in the list"
+        "message": "Kies kolommen om in de lijst weer te geven"
     },
     "grid_column_picker_name_header": {
         "_description": "In the column picker, the header for the column showing the names of the columns to include in the grid.",
-        "message": "Column"
+        "message": "Kolom"
     },
     "grid_column_picker_search_placeholder": {
         "_description": "Search text placeholder for the search box on the grid column picker",
-        "message": "Search by name"
+        "message": "Zoeken op naam"
     },
     "grid_column_picker_submit": {
         "_description": "Button text for applying changes made in the grid column picker",
-        "message": "Apply changes"
+        "message": "Wijzigingen toepassen"
     },
     "grid_columns_button": {
         "_description": "Label for button to select columns to display in a grid.",
-        "message": " Choose columns"
+        "message": " Kolommen kiezen"
     },
     "grid_filters_apply": {
         "_description": "Text for button on filters flyout to apply the selected filters to the grid",
-        "message": "Apply filters"
+        "message": "Filters toepassen"
     },
     "grid_filters_button": {
         "_description": "Label for button to select filters to be applied to a grid.",
@@ -117,7 +73,7 @@
     },
     "grid_filters_clear": {
         "_description": "Text for button on filters flyout to clear the selected filters for the grid",
-        "message": "Clear"
+        "message": "Wissen"
     },
     "grid_filters_header": {
         "_description": "Header text for grid filters flyout",
@@ -125,7 +81,7 @@
     },
     "grid_filters_hide": {
         "_description": "Hide link text for grid filters flyout",
-        "message": "Hide"
+        "message": "Verbergen"
     },
     "grid_filters_summary_header": {
         "_description": "Header text for filter summary on top of grid",
@@ -133,23 +89,23 @@
     },
     "grid_load_more": {
         "_description": "The text for the button to load additional rows into the grid if more rows are available.",
-        "message": "Load more"
+        "message": "Meer laden"
     },
     "grid_search_placeholder": {
         "_description": "Placeholder text in grid search box",
-        "message": "Find in this list"
+        "message": "Zoeken in deze lijst"
     },
     "grid_column_picker_search_no_columns": {
         "_description": "Displays when no columns are found for the specified search text.",
-        "message": "No columns found"
+        "message": "Geen kolommen gevonden"
     },
     "modal_footer_cancel_button": {
         "_description": "Default lable text for modal cancel button",
-        "message": "Cancel"
+        "message": "Annuleren"
     },
     "modal_footer_primary_button": {
         "_description": "Default lable text for modal primary button",
-        "message": "Save"
+        "message": "Opslaan"
     },
     "month_short_april": {
         "_description": "",
@@ -181,11 +137,11 @@
     },
     "month_short_march": {
         "_description": "",
-        "message": "Mar"
+        "message": "Mrt"
     },
     "month_short_may": {
         "_description": "",
-        "message": "May"
+        "message": "Mei"
     },
     "month_short_november": {
         "_description": "",
@@ -193,7 +149,7 @@
     },
     "month_short_october": {
         "_description": "",
-        "message": "Oct"
+        "message": "Okt"
     },
     "month_short_september": {
         "_description": "",
@@ -201,111 +157,111 @@
     },
     "page_noaccess_button": {
         "_description": "",
-        "message": "Return to a non-classified page"
+        "message": "Terug naar ongeclassificeerde pagina"
     },
     "page_noaccess_description": {
         "_description": "",
-        "message": "Sorry, you don't have rights to this page.\nIf you feel you should, please contact your system administrator."
+        "message": "U bent niet bevoegd om deze pagina te openen.\nNeem contact op met de systeembeheerder als dit volgens u niet juist is."
     },
     "page_noaccess_header": {
         "_description": "",
-        "message": "Move along, there's nothing to see here"
+        "message": "Ga door, geen bijzonderheden hier"
     },
     "text_expand_see_less": {
         "_description": "Display less text content",
-        "message": "See less"
+        "message": "Minder weergeven"
     },
     "text_expand_see_more": {
         "_description": "",
-        "message": "See more"
+        "message": "Meer weergeven"
     },
     "text_expand_modal_title": {
         "_description": "",
-        "message": "Expanded view"
+        "message": "Uitgebreide weergave"
     },
     "text_expand_close_text": {
-        "_description": "Text for the close button on the text expand modal",
-        "message": "Close"
+      "_description": "Text for the close button on the text expand modal",
+      "message": "Sluiten"
     },
     "grid_action_bar_clear_selection": {
         "_description": "Clear the selections in the grid.",
-        "message": "Clear selection"
+        "message": "Selectie wissen"
     },
     "grid_action_bar_cancel_mobile_actions": {
         "_description": "Close the menu where you choose an action in mobile multiselect.",
-        "message": "Cancel"
+        "message": "Annuleren"
     },
     "grid_action_bar_choose_action": {
         "_description": "Open a menu to choose an action in mobile  multiselect.",
-        "message": "Choose an action"
+        "message": "Kies een actie"
     },
     "date_field_invalid_date_message": {
         "_description": "error message shown when an invalid date is entered.",
-        "message": "Please enter a valid date"
+        "message": "Voer een geldige datum in"
     },
     "date_range_picker_this_week": {
         "_description": "text for date range picker",
-        "message": "This week"
+        "message": "Deze week"
     },
     "date_range_picker_last_week": {
         "_description": "text for date range picker",
-        "message": "Last week"
+        "message": "Vorige week"
     },
     "date_range_picker_next_week": {
         "_description": "text for date range picker",
-        "message": "Next week"
+        "message": "Volgende week"
     },
     "date_range_picker_this_month": {
         "_description": "text for date range picker",
-        "message": "This month"
+        "message": "Deze maand"
     },
     "date_range_picker_last_month": {
         "_description": "text for date range picker",
-        "message": "Last month"
+        "message": "Vorige maand"
     },
     "date_range_picker_next_month": {
         "_description": "text for date range picker",
-        "message": "Next month"
+        "message": "Volgende maand"
     },
     "date_range_picker_this_calendar_year": {
         "_description": "text for date range picker",
-        "message": "This calendar year"
+        "message": "Dit kalenderjaar"
     },
     "date_range_picker_last_calendar_year": {
         "_description": "text for date range picker",
-        "message": "Last calendar year"
+        "message": "Vorig kalenderjaar"
     },
     "date_range_picker_next_calendar_year": {
         "_description": "text for date range picker",
-        "message": "Next calendar year"
+        "message": "Volgend kalenderjaar"
     },
     "date_range_picker_this_fiscal_year": {
         "_description": "text for date range picker",
-        "message": "This fiscal year"
+        "message": "Dit fiscale jaar"
     },
     "date_range_picker_last_fiscal_year": {
         "_description": "text for date range picker",
-        "message": "Last fiscal year"
+        "message": "Vorig fiscaal jaar"
     },
     "date_range_picker_next_fiscal_year": {
         "_description": "text for date range picker",
-        "message": "Next fiscal year"
+        "message": "Volgend fiscaal jaar"
     },
     "date_range_picker_this_quarter": {
         "_description": "text for date range picker",
-        "message": "This quarter"
+        "message": "Dit kwartaal"
     },
     "date_range_picker_last_quarter": {
         "_description": "text for date range picker",
-        "message": "Last quarter"
+        "message": "Vorig kwartaal"
     },
     "date_range_picker_next_quarter": {
         "_description": "text for date range picker",
-        "message": "Next quarter"
+        "message": "Volgend kwartaal"
     },
     "date_range_picker_at_any_time": {
         "_description": "text for date range picker",
-        "message": "At any time"
+        "message": "Ongeacht tijdstip"
     },
     "date_range_picker_today": {
         "_description": "text for date range picker",
@@ -313,15 +269,15 @@
     },
     "date_range_picker_tomorrow": {
         "_description": "text for date range picker",
-        "message": "Tomorrow"
+        "message": "Morgen"
     },
     "date_range_picker_yesterday": {
         "_description": "text for date range picker",
-        "message": "Yesterday"
+        "message": "Gisteren"
     },
     "date_range_picker_specific_range": {
-        "_description": "text for date range picker",
-        "message": "Specific range"
+      "_description": "text for date range picker",
+      "message": "Specifiek bereik"
     },
     "date_range_picker_filter_description_this_week": {
         "_description": "text for date range picker",
@@ -400,48 +356,24 @@
         "message": "{0} for tomorrow"
     },
     "date_range_picker_filter_description_specific_range": {
-        "_description": "text for date range picker",
-        "message": "{0} from {1} to {2}"
+      "_description": "text for date range picker",
+      "message": "{0} from {1} to {2}"
     },
     "date_range_picker_from_date": {
-        "_description": "label for date range picker",
-        "message": "From date"
+      "_description": "label for date range picker",
+      "message": "Datum vanaf"
     },
     "date_range_picker_to_date": {
-        "_description": "label for date range picker",
-        "message": "To date"
+      "_description": "label for date range picker",
+      "message": "Datum tot"
     },
     "date_range_picker_min_date_error": {
-        "_description": "error message for date range picker",
-        "message": "End date must be after start date"
+      "_description": "error message for date range picker",
+      "message": "Einddatum moet na begindatum vallen"
     },
     "date_range_picker_max_date_error": {
-        "_description": "error message for date range picker",
-        "message": "Start date must be before end date"
-    },
-    "errormodal_ok": {
-        "_description": "Text used on the primary button to dismiss the error modal.",
-        "message": "OK"
-    },
-    "error_description_broken": {
-        "_description": "Text used for the error description to when page is broken.",
-        "message": "Try to refresh this page or come back later."
-    },
-    "error_description_construction": {
-        "_description": "Text used for the error description when page is under construction.",
-        "message": "Thanks for your patience while improvements are made!\nPlease check back in a little while."
-    },
-    "error_title_broken": {
-        "_description": "Text used for the error title when something is broken",
-        "message": "Sorry, something went wrong."
-    },
-    "error_title_construction": {
-        "_description": "Text used for the error title when page is under construction.",
-        "message": "This page will return soon."
-    },
-    "error_title_notfound": {
-        "_description": "Text used for the error title when page is not found.",
-        "message": "Sorry, we can't reach that page."
+      "_description": "error message for date range picker",
+      "message": "Begindatum moet voor einddatum vallen"
     },
     "file_size_b_plural": {
         "_description": "",
@@ -465,15 +397,15 @@
     },
     "file_upload_drag_file_here": {
         "_description": "",
-        "message": "Drag a file here"
+        "message": "Sleep een bestand hiernaartoe"
     },
     "file_upload_drop_files_here": {
         "_description": "",
-        "message": "Drop files here"
+        "message": "Zet bestanden hier neer"
     },
     "file_upload_invalid_file": {
         "_description": "",
-        "message": "This file type is invalid"
+        "message": "Dit bestandstype is ongeldig"
     },
     "file_upload_link_placeholder": {
         "_description": "",
@@ -481,59 +413,35 @@
     },
     "file_upload_or_click_to_browse": {
         "_description": "",
-        "message": "or click to browse"
+        "message": "of klik om te bladeren"
     },
     "file_upload_paste_link": {
         "_description": "",
-        "message": "Paste a link to a file"
+        "message": "Plak een koppeling naar een bestand"
     },
     "file_upload_paste_link_done": {
         "_description": "",
-        "message": "Done"
+        "message": "Gereed"
     },
     "searchfield_searching": {
         "_description": "text for ui-select search control while performing a remote search",
-        "message": "Searching..."
+        "message": "Bezig met zoeken..."
     },
     "searchfield_no_records": {
         "_description": "text for ui-select search control when no records are found.",
-        "message": "Sorry, no matching records found"
-    },
-    "selectfield_summary_text": {
-        "_description": "Text displayed when the user has more than 5 items selected",
-        "message": "{0} items selected"
-    },
-    "selectfield_remove": {
-        "_description": "Text for screen readers to convey the meaning of the remove icon button on select field values",
-        "message": "Remove"
-    },
-    "selectfieldpicker_select": {
-        "_description": "Text displayed on the primary dialog button to confirm selection of multiple items",
-        "message": "Select"
-    },
-    "selectfieldpicker_select_value": {
-        "_description": "The default header text for the select field picker directive when the user is allowed to select one value (singular)",
-        "message": "Select value"
-    },
-    "selectfieldpicker_select_values": {
-        "_description": "The default header text for the select field picker directive when the user is allowed to select more than one value (plural)",
-        "message": "Select values"
-    },
-    "selectfieldpicker_clear": {
-      "_description": "Text displayed on the button in single select mode to clear selection and close form",
-      "message": "Clear selection"
+        "message": "Geen overeenkomende records gevonden"
     },
     "wizard_navigator_finish": {
         "_description": "Text displayed on the next button when a wizard is ready for completion.",
-        "message": "Finish"
+        "message": "Voltooien"
     },
     "wizard_navigator_next": {
         "_description": "Text displayed on a wizard's next button.",
-        "message": "Next"
+        "message": "Volgende"
     },
     "wizard_navigator_previous": {
         "_description": "Text displayed on a wizard's previous button.",
-        "message": "Previous"
+        "message": "Vorige"
     },
     "datepicker_today": {
         "_description": "Text displayed in the Today button of the datepicker",
@@ -541,14 +449,10 @@
     },
     "datepicker_clear": {
         "_description": "Text displayed in the Clear button of the datepicker",
-        "message": "Clear"
+        "message": "Wissen"
     },
     "datepicker_close": {
         "_description": "Text displayed in the Close button of the datepicker",
-        "message": "Done"
-    },
-    "reorder_top": {
-      "_description": "Text displayed to indicate that a row can be pushed to the top of the list",
-      "message": "Top"
+        "message": "Gereed"
     }
 }
