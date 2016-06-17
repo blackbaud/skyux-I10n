@@ -1,458 +1,417 @@
 {
-    "action_bar_actions": {
-        "_description": "The label for the actions dropdown on the action button bar",
-        "message": "Actions"
-    },
-    "alert_close": {
-        "_description": "Screen reader text for the close button on alerts",
-        "message": "Fermer"
-    },
-    "autonumeric_abbr_billions": {
-        "_description": "The suffix to show after an abbreviated value in the billions (e.g. $1.2b)",
-        "message": "m"
-    },
-    "autonumeric_abbr_millions": {
-        "_description": "The suffix to show after an abbreviated value in the millions (e.g. $1.2m)",
-        "message": "m"
-    },
-    "autonumeric_abbr_thousands": {
-        "_description": "The suffix to show after an abbreviated value in the thousands (e.g. $1.2k)",
-        "message": "m"
-    },
-    "checklist_select_all": {
-        "_description": "Text for the link in a checklist to select all items.",
-        "message": "Tout sélectionner"
-    },
-    "checklist_clear_all": {
-        "_description": "Text for the link in a checklist to clear selections.",
-        "message": "Tout effacer"
-    },
-    "checklist_no_items": {
-        "_description": "Text in a checklist when no items are shown based on the current filter.",
-        "message": "Aucun élément trouvé"
-    },
-    "grid_back_to_top": {
-        "_description": "Text for link in grid to scroll back to the top.",
-        "message": "Retour au début"
-    },
-    "grid_column_picker_all_categories": {
-        "_description": "Button text for category filters used to indicate that all columns should be shown in the column picker",
-        "message": "Tout"
-    },
-    "grid_column_picker_description_header": {
-        "_description": "In the column picker, the header for the column showing the description of the columns to include in the grid.",
-        "message": "Description"
-    },
-    "grid_column_picker_header": {
-        "_description": "Header text for the grid column picker screen",
-        "message": "Choisir les colonnes à afficher dans la liste"
-    },
-    "grid_column_picker_name_header": {
-        "_description": "In the column picker, the header for the column showing the names of the columns to include in the grid.",
-        "message": "Colonne"
-    },
-    "grid_column_picker_search_placeholder": {
-        "_description": "Search text placeholder for the search box on the grid column picker",
-        "message": "Rechercher par nom"
-    },
-    "grid_column_picker_submit": {
-        "_description": "Button text for applying changes made in the grid column picker",
-        "message": "Appliquer les modifications"
-    },
-    "grid_columns_button": {
-        "_description": "Label for button to select columns to display in a grid.",
-        "message": " Choisir les colonnes"
-    },
-    "grid_filters_apply": {
-        "_description": "Text for button on filters flyout to apply the selected filters to the grid",
-        "message": "Appliquer les filtres"
-    },
-    "grid_filters_button": {
-        "_description": "Label for button to select filters to be applied to a grid.",
-        "message": "Filtres"
-    },
-    "grid_filters_clear": {
-        "_description": "Text for button on filters flyout to clear the selected filters for the grid",
-        "message": "Effacer"
-    },
-    "grid_filters_header": {
-        "_description": "Header text for grid filters flyout",
-        "message": "Filtre"
-    },
-    "grid_filters_hide": {
-        "_description": "Hide link text for grid filters flyout",
-        "message": "Masquer"
-    },
-    "grid_filters_summary_header": {
-        "_description": "Header text for filter summary on top of grid",
-        "message": "Filtre :"
-    },
-    "grid_load_more": {
-        "_description": "The text for the button to load additional rows into the grid if more rows are available.",
-        "message": "Charger plus"
-    },
-    "grid_search_placeholder": {
-        "_description": "Placeholder text in grid search box",
-        "message": "Trouver dans cette liste"
-    },
-    "grid_column_picker_search_no_columns": {
-        "_description": "Displays when no columns are found for the specified search text.",
-        "message": "Aucune colonne trouvée"
-    },
-    "modal_footer_cancel_button": {
-        "_description": "Default lable text for modal cancel button",
-        "message": "Annuler"
-    },
-    "modal_footer_primary_button": {
-        "_description": "Default lable text for modal primary button",
-        "message": "Enregistrer"
-    },
-    "month_short_april": {
-        "_description": "",
-        "message": "Avr"
-    },
-    "month_short_august": {
-        "_description": "",
-        "message": "Aoû"
-    },
-    "month_short_december": {
-        "_description": "",
-        "message": "Déc"
-    },
-    "month_short_february": {
-        "_description": "",
-        "message": "Fév"
-    },
-    "month_short_january": {
-        "_description": "",
-        "message": "Jan"
-    },
-    "month_short_july": {
-        "_description": "",
-        "message": "Jul"
-    },
-    "month_short_june": {
-        "_description": "",
-        "message": "Jun"
-    },
-    "month_short_march": {
-        "_description": "",
-        "message": "Mar"
-    },
-    "month_short_may": {
-        "_description": "",
-        "message": "Mai"
-    },
-    "month_short_november": {
-        "_description": "",
-        "message": "Nov"
-    },
-    "month_short_october": {
-        "_description": "",
-        "message": "Oct"
-    },
-    "month_short_september": {
-        "_description": "",
-        "message": "Sep"
-    },
-    "page_noaccess_button": {
-        "_description": "",
-        "message": "Revenir à une page non classée"
-    },
-    "page_noaccess_description": {
-        "_description": "",
-        "message": "Désolé, vous ne disposez pas des droits requis pour accéder à cette page.\nSi vous souhaitez y accéder, veuillez contacter votre administrateur système."
-    },
-    "page_noaccess_header": {
-        "_description": "",
-        "message": "Circulez, il n'y a rien à voir"
-    },
-    "text_expand_see_less": {
-        "_description": "Display less text content",
-        "message": "Afficher moins"
-    },
-    "text_expand_see_more": {
-        "_description": "",
-        "message": "Afficher plus"
-    },
-    "text_expand_modal_title": {
-        "_description": "",
-        "message": "Vue développée"
-    },
-    "text_expand_close_text": {
-      "_description": "Text for the close button on the text expand modal",
-      "message": "Fermer"
-    },
-    "grid_action_bar_clear_selection": {
-        "_description": "Clear the selections in the grid.",
-        "message": "Effacer la sélection"
-    },
-    "grid_action_bar_cancel_mobile_actions": {
-        "_description": "Close the menu where you choose an action in mobile multiselect.",
-        "message": "Annuler"
-    },
-    "grid_action_bar_choose_action": {
-        "_description": "Open a menu to choose an action in mobile  multiselect.",
-        "message": "Choisir une action"
-    },
-    "date_field_invalid_date_message": {
-        "_description": "error message shown when an invalid date is entered.",
-        "message": "Saisissez une date valide"
-    },
-    "date_range_picker_this_week": {
-        "_description": "text for date range picker",
-        "message": "Cette semaine"
-    },
-    "date_range_picker_last_week": {
-        "_description": "text for date range picker",
-        "message": "Semaine dernière"
-    },
-    "date_range_picker_next_week": {
-        "_description": "text for date range picker",
-        "message": "Semaine suivante"
-    },
-    "date_range_picker_this_month": {
-        "_description": "text for date range picker",
-        "message": "Ce mois"
-    },
-    "date_range_picker_last_month": {
-        "_description": "text for date range picker",
-        "message": "Mois dernier"
-    },
-    "date_range_picker_next_month": {
-        "_description": "text for date range picker",
-        "message": "Mois suivant"
-    },
-    "date_range_picker_this_calendar_year": {
-        "_description": "text for date range picker",
-        "message": "Cette année civile"
-    },
-    "date_range_picker_last_calendar_year": {
-        "_description": "text for date range picker",
-        "message": "Dernière année civile"
-    },
-    "date_range_picker_next_calendar_year": {
-        "_description": "text for date range picker",
-        "message": "Année civile suivante"
-    },
-    "date_range_picker_this_fiscal_year": {
-        "_description": "text for date range picker",
-        "message": "Cette année fiscale"
-    },
-    "date_range_picker_last_fiscal_year": {
-        "_description": "text for date range picker",
-        "message": "Dernière année fiscale"
-    },
-    "date_range_picker_next_fiscal_year": {
-        "_description": "text for date range picker",
-        "message": "Année fiscale suivante"
-    },
-    "date_range_picker_this_quarter": {
-        "_description": "text for date range picker",
-        "message": "Ce trimestre"
-    },
-    "date_range_picker_last_quarter": {
-        "_description": "text for date range picker",
-        "message": "Trimestre dernier"
-    },
-    "date_range_picker_next_quarter": {
-        "_description": "text for date range picker",
-        "message": "Trimestre suivant"
-    },
-    "date_range_picker_at_any_time": {
-        "_description": "text for date range picker",
-        "message": "À tout moment"
-    },
-    "date_range_picker_today": {
-        "_description": "text for date range picker",
-        "message": "Aujourd'hui"
-    },
-    "date_range_picker_tomorrow": {
-        "_description": "text for date range picker",
-        "message": "Demain"
-    },
-    "date_range_picker_yesterday": {
-        "_description": "text for date range picker",
-        "message": "Hier"
-    },
-    "date_range_picker_specific_range": {
-      "_description": "text for date range picker",
-      "message": "Plage spécifique"
-    },
-    "date_range_picker_filter_description_this_week": {
-        "_description": "text for date range picker",
-        "message": "{0} for this week"
-    },
-    "date_range_picker_filter_description_last_week": {
-        "_description": "text for date range picker",
-        "message": "{0} from last week"
-    },
-    "date_range_picker_filter_description_next_week": {
-        "_description": "text for date range picker",
-        "message": "{0} for next week"
-    },
-    "date_range_picker_filter_description_this_month": {
-        "_description": "text for date range picker",
-        "message": "{0} for this month"
-    },
-    "date_range_picker_filter_description_last_month": {
-        "_description": "text for date range picker",
-        "message": "{0} from last month"
-    },
-    "date_range_picker_filter_description_next_month": {
-        "_description": "text for date range picker",
-        "message": "{0} for next month"
-    },
-    "date_range_picker_filter_description_this_calendar_year": {
-        "_description": "text for date range picker",
-        "message": "{0} for this calendar year"
-    },
-    "date_range_picker_filter_description_last_calendar_year": {
-        "_description": "text for date range picker",
-        "message": "{0} from last calendar year"
-    },
-    "date_range_picker_filter_description_next_calendar_year": {
-        "_description": "text for date range picker",
-        "message": "{0} for next calendar year"
-    },
-    "date_range_picker_filter_description_this_fiscal_year": {
-        "_description": "text for date range picker",
-        "message": "{0} for this fiscal year"
-    },
-    "date_range_picker_filter_description_last_fiscal_year": {
-        "_description": "text for date range picker",
-        "message": "{0} from last fiscal year"
-    },
-    "date_range_picker_filter_description_next_fiscal_year": {
-        "_description": "text for date range picker",
-        "message": "{0} for next fiscal year"
-    },
-    "date_range_picker_filter_description_this_quarter": {
-        "_description": "text for date range picker",
-        "message": "{0} for this quarter"
-    },
-    "date_range_picker_filter_description_last_quarter": {
-        "_description": "text for date range picker",
-        "message": "{0} from last quarter"
-    },
-    "date_range_picker_filter_description_next_quarter": {
-        "_description": "text for date range picker",
-        "message": "{0} for next quarter"
-    },
-    "date_range_picker_filter_description_at_any_time": {
-        "_description": "text for date range picker",
-        "message": "{0} at any time"
-    },
-    "date_range_picker_filter_description_today": {
-        "_description": "text for date range picker",
-        "message": "{0} for today"
-    },
-    "date_range_picker_filter_description_yesterday": {
-        "_description": "text for date range picker",
-        "message": "{0} from yesterday"
-    },
-    "date_range_picker_filter_description_tomorrow": {
-        "_description": "text for date range picker",
-        "message": "{0} for tomorrow"
-    },
-    "date_range_picker_filter_description_specific_range": {
-      "_description": "text for date range picker",
-      "message": "{0} from {1} to {2}"
-    },
-    "date_range_picker_from_date": {
-      "_description": "label for date range picker",
-      "message": "À partir de la date"
-    },
-    "date_range_picker_to_date": {
-      "_description": "label for date range picker",
-      "message": "À ce jour"
-    },
-    "date_range_picker_min_date_error": {
-      "_description": "error message for date range picker",
-      "message": "La date de fin doit être postérieure à la date de début"
-    },
-    "date_range_picker_max_date_error": {
-      "_description": "error message for date range picker",
-      "message": "La date de début doit être antérieure à la date de fin"
-    },
-    "file_size_b_plural": {
-        "_description": "",
-        "message": "{0} bytes"
-    },
-    "file_size_b_singular": {
-        "_description": "",
-        "message": "{0} byte"
-    },
-    "file_size_kb": {
-        "_description": "",
-        "message": "{0} KB"
-    },
-    "file_size_mb": {
-        "_description": "",
-        "message": "{0} MB"
-    },
-    "file_size_gb": {
-        "_description": "",
-        "message": "{0} GB"
-    },
-    "file_upload_drag_file_here": {
-        "_description": "",
-        "message": "Faites glisser un fichier jusqu'ici"
-    },
-    "file_upload_drop_files_here": {
-        "_description": "",
-        "message": "Déposez des fichiers ici"
-    },
-    "file_upload_invalid_file": {
-        "_description": "",
-        "message": "Ce type de fichier n'est pas valide"
-    },
-    "file_upload_link_placeholder": {
-        "_description": "",
-        "message": "http://www.something.com/file"
-    },
-    "file_upload_or_click_to_browse": {
-        "_description": "",
-        "message": "ou cliquez pour parcourir"
-    },
-    "file_upload_paste_link": {
-        "_description": "",
-        "message": "Coller un lien dans un fichier"
-    },
-    "file_upload_paste_link_done": {
-        "_description": "",
-        "message": "Terminé"
-    },
-    "searchfield_searching": {
-        "_description": "text for ui-select search control while performing a remote search",
-        "message": "Recherche en cours..."
-    },
-    "searchfield_no_records": {
-        "_description": "text for ui-select search control when no records are found.",
-        "message": "Désolé, aucun enregistrement correspondant trouvé"
-    },
-    "wizard_navigator_finish": {
-        "_description": "Text displayed on the next button when a wizard is ready for completion.",
-        "message": "Terminer"
-    },
-    "wizard_navigator_next": {
-        "_description": "Text displayed on a wizard's next button.",
-        "message": "Next"
-    },
-    "wizard_navigator_previous": {
-        "_description": "Text displayed on a wizard's previous button.",
-        "message": "Précédent"
-    },
-    "datepicker_today": {
-        "_description": "Text displayed in the Today button of the datepicker",
-        "message": "Aujourd'hui"
-    },
-    "datepicker_clear": {
-        "_description": "Text displayed in the Clear button of the datepicker",
-        "message": "Effacer"
-    },
-    "datepicker_close": {
-        "_description": "Text displayed in the Close button of the datepicker",
-        "message": "Terminé"
-    }
+  "_LRM_PKTAG341": "skyux-l10n_5_6 - CHANGES-ONLY",
+  "action_bar_actions": {
+    "message": "Actions"
+  },
+  "alert_close": {
+    "message": "Fermer"
+  },
+  "autonumeric_abbr_billions": {
+    "message": "m"
+  },
+  "autonumeric_abbr_millions": {
+    "message": "m"
+  },
+  "autonumeric_abbr_thousands": {
+    "message": "m"
+  },
+  "avatar_error_not_image_description": {
+    "message": "Veuillez choisir un fichier qui est une image valide."
+  },
+  "avatar_error_not_image_title": {
+    "message": "Le fichier n'est pas une image."
+  },
+  "avatar_error_too_large_description": {
+    "message": "Veuillez choisir une image qui est inf�rieure � {0}."
+  },
+  "avatar_error_too_large_title": {
+    "message": "Le fichier est trop volumineux."
+  },
+  "checklist_categories_label": {
+    "message": "Cat�gories"
+  },
+  "checklist_check_title": {
+    "message": "S�lectionner un �l�ment"
+  },
+  "checklist_clear_all": {
+    "message": "Effacer tous les �l�ments de la liste de v�rification"
+  },
+  "checklist_no_items": {
+    "message": "Aucun �l�ment trouv� dans cette liste"
+  },
+  "checklist_only_selected_items": {
+    "message": "Afficher uniquement les �l�ments s�lectionn�s"
+  },
+  "checklist_search_label": {
+    "message": "Rechercher"
+  },
+  "checklist_select_all": {
+    "message": "S�lectionner tous les �l�ments de la liste de v�rification"
+  },
+  "chevron_collapse": {
+    "message": "R�duire"
+  },
+  "chevron_expand": {
+    "message": "D�velopper"
+  },
+  "context_menu_default_label": {
+    "message": "Menu contextuel"
+  },
+  "date_field_invalid_date_message": {
+    "message": "Saisissez une date valide"
+  },
+  "date_range_picker_at_any_time": {
+    "message": "À tout moment"
+  },
+  "date_range_picker_filter_description_at_any_time": {
+    "message": "{0} at any time"
+  },
+  "date_range_picker_filter_description_last_calendar_year": {
+    "message": "{0} from last calendar year"
+  },
+  "date_range_picker_filter_description_last_fiscal_year": {
+    "message": "{0} from last fiscal year"
+  },
+  "date_range_picker_filter_description_last_month": {
+    "message": "{0} from last month"
+  },
+  "date_range_picker_filter_description_last_quarter": {
+    "message": "{0} from last quarter"
+  },
+  "date_range_picker_filter_description_last_week": {
+    "message": "{0} from last week"
+  },
+  "date_range_picker_filter_description_next_calendar_year": {
+    "message": "{0} for next calendar year"
+  },
+  "date_range_picker_filter_description_next_fiscal_year": {
+    "message": "{0} for next fiscal year"
+  },
+  "date_range_picker_filter_description_next_month": {
+    "message": "{0} for next month"
+  },
+  "date_range_picker_filter_description_next_quarter": {
+    "message": "{0} for next quarter"
+  },
+  "date_range_picker_filter_description_next_week": {
+    "message": "{0} for next week"
+  },
+  "date_range_picker_filter_description_specific_range": {
+    "message": "{0} de {1} � {2}"
+  },
+  "date_range_picker_filter_description_this_calendar_year": {
+    "message": "{0} for this calendar year"
+  },
+  "date_range_picker_filter_description_this_fiscal_year": {
+    "message": "{0} for this fiscal year"
+  },
+  "date_range_picker_filter_description_this_month": {
+    "message": "{0} for this month"
+  },
+  "date_range_picker_filter_description_this_quarter": {
+    "message": "{0} for this quarter"
+  },
+  "date_range_picker_filter_description_this_week": {
+    "message": "{0} for this week"
+  },
+  "date_range_picker_filter_description_today": {
+    "message": "{0} for today"
+  },
+  "date_range_picker_filter_description_tomorrow": {
+    "message": "{0} for tomorrow"
+  },
+  "date_range_picker_filter_description_yesterday": {
+    "message": "{0} from yesterday"
+  },
+  "date_range_picker_from_date": {
+    "message": "� partir de la date"
+  },
+  "date_range_picker_last_calendar_year": {
+    "message": "Dernière année civile"
+  },
+  "date_range_picker_last_fiscal_year": {
+    "message": "Dernière année fiscale"
+  },
+  "date_range_picker_last_month": {
+    "message": "Mois dernier"
+  },
+  "date_range_picker_last_quarter": {
+    "message": "Trimestre dernier"
+  },
+  "date_range_picker_last_week": {
+    "message": "Semaine dernière"
+  },
+  "date_range_picker_max_date_error": {
+    "message": "La date de d�but doit �tre ant�rieure � la date de fin"
+  },
+  "date_range_picker_min_date_error": {
+    "message": "La date de fin doit �tre post�rieure � la date de d�but"
+  },
+  "date_range_picker_next_calendar_year": {
+    "message": "Année civile suivante"
+  },
+  "date_range_picker_next_fiscal_year": {
+    "message": "Année fiscale suivante"
+  },
+  "date_range_picker_next_month": {
+    "message": "Mois suivant"
+  },
+  "date_range_picker_next_quarter": {
+    "message": "Trimestre suivant"
+  },
+  "date_range_picker_next_week": {
+    "message": "Semaine suivante"
+  },
+  "date_range_picker_specific_range": {
+    "message": "Plage sp�cifique"
+  },
+  "date_range_picker_this_calendar_year": {
+    "message": "Cette année civile"
+  },
+  "date_range_picker_this_fiscal_year": {
+    "message": "Cette année fiscale"
+  },
+  "date_range_picker_this_month": {
+    "message": "Ce mois"
+  },
+  "date_range_picker_this_quarter": {
+    "message": "Ce trimestre"
+  },
+  "date_range_picker_this_week": {
+    "message": "Cette semaine"
+  },
+  "date_range_picker_to_date": {
+    "message": "� ce jour"
+  },
+  "date_range_picker_today": {
+    "message": "Aujourd'hui"
+  },
+  "date_range_picker_tomorrow": {
+    "message": "Demain"
+  },
+  "date_range_picker_yesterday": {
+    "message": "Hier"
+  },
+  "datepicker_clear": {
+    "message": "Effacer"
+  },
+  "datepicker_close": {
+    "message": "Terminé"
+  },
+  "datepicker_today": {
+    "message": "Aujourd'hui"
+  },
+  "error_description_broken": {
+    "message": "Essayez d'actualiser cette page ou revenez plus tard."
+  },
+  "error_description_construction": {
+    "message": "Merci de votre patience pendant que nous proc�dons � des am�liorations.\nVeuillez r�essayer un peu plus tard."
+  },
+  "error_title_broken": {
+    "message": "D�sol�, un probl�me est survenu."
+  },
+  "error_title_construction": {
+    "message": "Cette page sera bient�t � nouveau disponible."
+  },
+  "error_title_notfound": {
+    "message": "D�sol�, nous ne pouvons pas afficher cette page."
+  },
+  "errormodal_ok": {
+    "message": "OK"
+  },
+  "file_size_b_plural": {
+    "message": "{0} bytes"
+  },
+  "file_size_b_singular": {
+    "message": "{0} byte"
+  },
+  "file_size_gb": {
+    "message": "{0} GB"
+  },
+  "file_size_kb": {
+    "message": "{0} KB"
+  },
+  "file_size_mb": {
+    "message": "{0} MB"
+  },
+  "file_upload_drag_file_here": {
+    "message": "Faites glisser un fichier jusqu'ici"
+  },
+  "file_upload_drop_files_here": {
+    "message": "Déposez des fichiers ici"
+  },
+  "file_upload_invalid_file": {
+    "message": "Ce type de fichier n'est pas valide"
+  },
+  "file_upload_link_placeholder": {
+    "message": "http://www.something.com/file"
+  },
+  "file_upload_or_click_to_browse": {
+    "message": "ou cliquez pour parcourir"
+  },
+  "file_upload_paste_link": {
+    "message": "Coller un lien dans un fichier"
+  },
+  "file_upload_paste_link_done": {
+    "message": "Terminé"
+  },
+  "grid_action_bar_cancel_mobile_actions": {
+    "message": "Annuler"
+  },
+  "grid_action_bar_choose_action": {
+    "message": "Choisir une action"
+  },
+  "grid_action_bar_clear_selection": {
+    "message": "Effacer la sélection"
+  },
+  "grid_back_to_top": {
+    "message": "Retour au début"
+  },
+  "grid_column_picker_all_categories": {
+    "message": "Toutes les cat�gories"
+  },
+  "grid_column_picker_description_header": {
+    "message": "Description"
+  },
+  "grid_column_picker_header": {
+    "message": "Choisir les colonnes � afficher"
+  },
+  "grid_column_picker_name_header": {
+    "message": "Colonne"
+  },
+  "grid_column_picker_search_no_columns": {
+    "message": "Aucune colonne trouvée"
+  },
+  "grid_column_picker_search_placeholder": {
+    "message": "Rechercher par nom"
+  },
+  "grid_column_picker_submit": {
+    "message": "Appliquer les modifications"
+  },
+  "grid_columns_button": {
+    "message": " Choisir les colonnes"
+  },
+  "grid_filters_apply": {
+    "message": "Appliquer les filtres"
+  },
+  "grid_filters_button": {
+    "message": "Filtres"
+  },
+  "grid_filters_clear": {
+    "message": "Effacer"
+  },
+  "grid_filters_header": {
+    "message": "Filtre"
+  },
+  "grid_filters_hide": {
+    "message": "Masquer"
+  },
+  "grid_filters_summary_header": {
+    "message": "Filtre :"
+  },
+  "grid_load_more": {
+    "message": "Charger plus"
+  },
+  "grid_search_placeholder": {
+    "message": "Trouver dans cette liste"
+  },
+  "modal_footer_cancel_button": {
+    "message": "Annuler"
+  },
+  "modal_footer_primary_button": {
+    "message": "Enregistrer"
+  },
+  "month_short_april": {
+    "message": "Avr"
+  },
+  "month_short_august": {
+    "message": "Aoû"
+  },
+  "month_short_december": {
+    "message": "Déc"
+  },
+  "month_short_february": {
+    "message": "Fév"
+  },
+  "month_short_january": {
+    "message": "Jan"
+  },
+  "month_short_july": {
+    "message": "Jul"
+  },
+  "month_short_june": {
+    "message": "Jun"
+  },
+  "month_short_march": {
+    "message": "Mar"
+  },
+  "month_short_may": {
+    "message": "Mai"
+  },
+  "month_short_november": {
+    "message": "Nov"
+  },
+  "month_short_october": {
+    "message": "Oct"
+  },
+  "month_short_september": {
+    "message": "Sep"
+  },
+  "page_noaccess_button": {
+    "message": "Revenir à une page non classée"
+  },
+  "page_noaccess_description": {
+    "message": "Désolé, vous ne disposez pas des droits requis pour accéder à cette page.\nSi vous souhaitez y accéder, veuillez contacter votre administrateur système."
+  },
+  "page_noaccess_header": {
+    "message": "Circulez, il n'y a rien à voir"
+  },
+  "reorder_top": {
+    "message": "Haut"
+  },
+  "searchfield_no_records": {
+    "message": "D�sol�, aucun enregistrement correspondant trouv�"
+  },
+  "searchfield_searching": {
+    "message": "Recherche en cours..."
+  },
+  "selectfield_remove": {
+    "message": "Supprimer"
+  },
+  "selectfield_summary_text": {
+    "message": "{0} �l�ment(s) s�lectionn�(s)"
+  },
+  "selectfieldpicker_clear": {
+    "message": "Effacer la s�lection"
+  },
+  "selectfieldpicker_select": {
+    "message": "S�lectionner"
+  },
+  "selectfieldpicker_select_value": {
+    "message": "S�lectionner une valeur"
+  },
+  "selectfieldpicker_select_values": {
+    "message": "S�lectionner des valeurs"
+  },
+  "text_expand_close_text": {
+    "message": "Fermer"
+  },
+  "text_expand_modal_title": {
+    "message": "Vue développée"
+  },
+  "text_expand_see_less": {
+    "message": "Afficher moins"
+  },
+  "text_expand_see_more": {
+    "message": "Afficher plus"
+  },
+  "wizard_navigator_finish": {
+    "message": "Terminer"
+  },
+  "wizard_navigator_next": {
+    "message": "Next"
+  },
+  "wizard_navigator_previous": {
+    "message": "Précédent"
+  }
 }
