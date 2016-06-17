@@ -1,5 +1,5 @@
 {
-  "_LRM_PKTAG219": "skyux-l10n_1_3 - CHANGES-ONLY",
+  "_LRM_PKTAG831": "skyux-l10n_5_3 - CHANGES-ONLY",
   "action_bar_actions": {
     "message": "_End-point_"
   },
@@ -15,14 +15,47 @@
   "autonumeric_abbr_thousands": {
     "message": "_a_"
   },
+  "avatar_error_not_image_description": {
+    "message": "Please choose a file that is a valid image."
+  },
+  "avatar_error_not_image_title": {
+    "message": "File is not an image."
+  },
+  "avatar_error_too_large_description": {
+    "message": "Please choose an image that is less than {0}."
+  },
+  "avatar_error_too_large_title": {
+    "message": "File is too large."
+  },
+  "checklist_categories_label": {
+    "message": "Categories"
+  },
+  "checklist_check_title": {
+    "message": "Select item"
+  },
   "checklist_clear_all": {
-    "message": "_Schemes came_"
+    "message": "Clear all checklist items"
   },
   "checklist_no_items": {
-    "message": "_JRC lengths Pending_"
+    "message": "No items found in this list"
+  },
+  "checklist_only_selected_items": {
+    "message": "Only show selected items"
+  },
+  "checklist_search_label": {
+    "message": "Search"
   },
   "checklist_select_all": {
-    "message": "_Consists onto_"
+    "message": "Select all checklist items"
+  },
+  "chevron_collapse": {
+    "message": "Collapse"
+  },
+  "chevron_expand": {
+    "message": "Expand"
+  },
+  "context_menu_default_label": {
+    "message": "Context menu"
   },
   "date_field_invalid_date_message": {
     "message": "_Obtained onwards a tourist steer_"
@@ -63,6 +96,9 @@
   "date_range_picker_filter_description_next_week": {
     "message": "_{0} full nomos yeast_"
   },
+  "date_range_picker_filter_description_specific_range": {
+    "message": "{0} from {1} to {2}"
+  },
   "date_range_picker_filter_description_this_calendar_year": {
     "message": "_{0} sent mixed legibility flank_"
   },
@@ -87,6 +123,9 @@
   "date_range_picker_filter_description_yesterday": {
     "message": "_{0} river reproduction_"
   },
+  "date_range_picker_from_date": {
+    "message": "From date"
+  },
   "date_range_picker_last_calendar_year": {
     "message": "_Shell supplement drive_"
   },
@@ -101,6 +140,12 @@
   },
   "date_range_picker_last_week": {
     "message": "_Coast files_"
+  },
+  "date_range_picker_max_date_error": {
+    "message": "Start date must be before end date"
+  },
+  "date_range_picker_min_date_error": {
+    "message": "End date must be after start date"
   },
   "date_range_picker_next_calendar_year": {
     "message": "_GREAT horizontal cease_"
@@ -117,6 +162,9 @@
   "date_range_picker_next_week": {
     "message": "_Brine trade_"
   },
+  "date_range_picker_specific_range": {
+    "message": "Specific range"
+  },
   "date_range_picker_this_calendar_year": {
     "message": "_Alter saturation Rumex_"
   },
@@ -131,6 +179,9 @@
   },
   "date_range_picker_this_week": {
     "message": "_Cease drink_"
+  },
+  "date_range_picker_to_date": {
+    "message": "To date"
   },
   "date_range_picker_today": {
     "message": "_Pursued_"
@@ -149,6 +200,24 @@
   },
   "datepicker_today": {
     "message": "_Reading_"
+  },
+  "error_description_broken": {
+    "message": "Try to refresh this page or come back later."
+  },
+  "error_description_construction": {
+    "message": "Thanks for your patience while improvements are being made!\nPlease check back in a little while."
+  },
+  "error_title_broken": {
+    "message": "Sorry, something went wrong."
+  },
+  "error_title_construction": {
+    "message": "This page will return soon."
+  },
+  "error_title_notfound": {
+    "message": "Sorry, we cannot reach that page."
+  },
+  "errormodal_ok": {
+    "message": "OK"
   },
   "file_size_b_plural": {
     "message": "_{0} chilled_"
@@ -199,13 +268,13 @@
     "message": "_Bands CAS HERE_"
   },
   "grid_column_picker_all_categories": {
-    "message": "_Yarn_"
+    "message": "All categories"
   },
   "grid_column_picker_description_header": {
     "message": "_Quantitatively_"
   },
   "grid_column_picker_header": {
-    "message": "_Suitably potassium i.u beans gin gone noted_"
+    "message": "Choose the columns to show"
   },
   "grid_column_picker_name_header": {
     "message": "_Scotland_"
@@ -297,11 +366,35 @@
   "page_noaccess_header": {
     "message": "_Shake rounded, Sailing'a Gibraltar leg mind yield_"
   },
+  "reorder_top": {
+    "message": "Top"
+  },
   "searchfield_no_records": {
-    "message": "_dairy user tow-remained minimize locations Wales cut condition PCTs obvious,_"
+    "message": "Sorry, no matching records found"
   },
   "searchfield_searching": {
     "message": "_Requirements..._"
+  },
+  "selectfield_remove": {
+    "message": "Remove"
+  },
+  "selectfield_summary_text": {
+    "message": "{0} items selected"
+  },
+  "selectfieldpicker_clear": {
+    "message": "Clear selection"
+  },
+  "selectfieldpicker_select": {
+    "message": "Select"
+  },
+  "selectfieldpicker_select_value": {
+    "message": "Select value"
+  },
+  "selectfieldpicker_select_values": {
+    "message": "Select values"
+  },
+  "text_expand_close_text": {
+    "message": "Close"
   },
   "text_expand_modal_title": {
     "message": "_Complaints mg/kg_"
