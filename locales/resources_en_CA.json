@@ -1,5 +1,5 @@
 {
-  "_LRM_PKTAG895": "skyux-l10n_1_4 - CHANGES-ONLY",
+  "_LRM_PKTAG962": "skyux-l10n_5_4 - CHANGES-ONLY",
   "action_bar_actions": {
     "message": "_Flow-rate_"
   },
@@ -15,14 +15,47 @@
   "autonumeric_abbr_thousands": {
     "message": "K"
   },
+  "avatar_error_not_image_description": {
+    "message": "Please choose a file that is a valid image."
+  },
+  "avatar_error_not_image_title": {
+    "message": "File is not an image."
+  },
+  "avatar_error_too_large_description": {
+    "message": "Please choose an image that is less than {0}."
+  },
+  "avatar_error_too_large_title": {
+    "message": "File is too large."
+  },
+  "checklist_categories_label": {
+    "message": "Categories"
+  },
+  "checklist_check_title": {
+    "message": "Select item"
+  },
   "checklist_clear_all": {
-    "message": "_Centres HERE_"
+    "message": "Clear all checklist items"
   },
   "checklist_no_items": {
-    "message": "_PIC outside trolley_"
+    "message": "No items found in this list"
+  },
+  "checklist_only_selected_items": {
+    "message": "Only show selected items"
+  },
+  "checklist_search_label": {
+    "message": "Search"
   },
   "checklist_select_all": {
-    "message": "_Ouvriers hens_"
+    "message": "Select all checklist items"
+  },
+  "chevron_collapse": {
+    "message": "Collapse"
+  },
+  "chevron_expand": {
+    "message": "Expand"
+  },
+  "context_menu_default_label": {
+    "message": "Context menu"
   },
   "date_field_invalid_date_message": {
     "message": "_Breakage animals a premium shape_"
@@ -63,6 +96,9 @@
   "date_range_picker_filter_description_next_week": {
     "message": "_{0} owed beams abuse_"
   },
+  "date_range_picker_filter_description_specific_range": {
+    "message": "{0} from {1} to {2}"
+  },
   "date_range_picker_filter_description_this_calendar_year": {
     "message": "_{0} draw comes tolerances tubes_"
   },
@@ -87,6 +123,9 @@
   "date_range_picker_filter_description_yesterday": {
     "message": "_{0} strap implications_"
   },
+  "date_range_picker_from_date": {
+    "message": "From date"
+  },
   "date_range_picker_last_calendar_year": {
     "message": "_Naked Federation media_"
   },
@@ -101,6 +140,12 @@
   },
   "date_range_picker_last_week": {
     "message": "_Boric cases_"
+  },
+  "date_range_picker_max_date_error": {
+    "message": "Start date must be before end date"
+  },
+  "date_range_picker_min_date_error": {
+    "message": "End date must be after start date"
   },
   "date_range_picker_next_calendar_year": {
     "message": "_Joint negligence stock_"
@@ -117,6 +162,9 @@
   "date_range_picker_next_week": {
     "message": "_Slots abide_"
   },
+  "date_range_picker_specific_range": {
+    "message": "Specific range"
+  },
   "date_range_picker_this_calendar_year": {
     "message": "_Zaken stabilized audit_"
   },
@@ -131,6 +179,9 @@
   },
   "date_range_picker_this_week": {
     "message": "_Cause minor_"
+  },
+  "date_range_picker_to_date": {
+    "message": "To date"
   },
   "date_range_picker_today": {
     "message": "_General_"
@@ -149,6 +200,24 @@
   },
   "datepicker_today": {
     "message": "_Acetone_"
+  },
+  "error_description_broken": {
+    "message": "Try to refresh this page or come back later."
+  },
+  "error_description_construction": {
+    "message": "Thanks for your patience while improvements are made!\nPlease check back in a little while."
+  },
+  "error_title_broken": {
+    "message": "Sorry, something went wrong."
+  },
+  "error_title_construction": {
+    "message": "This page will return soon."
+  },
+  "error_title_notfound": {
+    "message": "Sorry, we can't reach that page."
+  },
+  "errormodal_ok": {
+    "message": "OK"
   },
   "file_size_b_plural": {
     "message": "_{0} Uruguay_"
@@ -199,13 +268,13 @@
     "message": "_Times rib your_"
   },
   "grid_column_picker_all_categories": {
-    "message": "_Sent_"
+    "message": "All categories"
   },
   "grid_column_picker_description_header": {
     "message": "_Recommendation_"
   },
   "grid_column_picker_header": {
-    "message": "_Practice weighings XIV wells jet fill noted_"
+    "message": "Choose the columns to show"
   },
   "grid_column_picker_name_header": {
     "message": "_Entrance_"
@@ -297,11 +366,35 @@
   "page_noaccess_header": {
     "message": "_NINTH vacancy, quickly'a submitted day leak RADAR_"
   },
+  "reorder_top": {
+    "message": "Top"
+  },
   "searchfield_no_records": {
-    "message": "_woven EDTA sul-drafting retarder applicant flame age interfere cold British,_"
+    "message": "Sorry, no matching records found"
   },
   "searchfield_searching": {
     "message": "_Accumulation..._"
+  },
+  "selectfield_remove": {
+    "message": "Remove"
+  },
+  "selectfield_summary_text": {
+    "message": "{0} items selected"
+  },
+  "selectfieldpicker_clear": {
+    "message": "Clear selection"
+  },
+  "selectfieldpicker_select": {
+    "message": "Select"
+  },
+  "selectfieldpicker_select_value": {
+    "message": "Select value"
+  },
+  "selectfieldpicker_select_values": {
+    "message": "Select values"
+  },
+  "text_expand_close_text": {
+    "message": "Close"
   },
   "text_expand_modal_title": {
     "message": "_SUBSCRIBED April_"
