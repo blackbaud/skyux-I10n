@@ -1,5 +1,5 @@
 {
-  "_LRM_PKTAG356": "skyux-l10n_5_15 - CHANGES-ONLY",
+  "_LRM_PKTAG708": "skyux-l10n_6_15 - CHANGES-ONLY",
   "action_bar_actions": {
     "message": "Azioni"
   },
@@ -274,7 +274,7 @@
     "message": "Descrizione"
   },
   "grid_column_picker_header": {
-    "message": "Scegliere le colonne da mostrare nell’elenco"
+    "message": "Scegliere le colonne da mostrare nell�elenco"
   },
   "grid_column_picker_name_header": {
     "message": "Colonna"

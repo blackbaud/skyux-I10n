@@ -1,5 +1,5 @@
 {
-  "_LRM_PKTAG341": "skyux-l10n_5_6 - CHANGES-ONLY",
+  "_LRM_PKTAG628": "skyux-l10n_6_6 - CHANGES-ONLY",
   "action_bar_actions": {
     "message": "Actions"
   },
@@ -34,10 +34,10 @@
     "message": "S�lectionner un �l�ment"
   },
   "checklist_clear_all": {
-    "message": "Effacer tous les �l�ments de la liste de v�rification"
+    "message": "Tout effacer"
   },
   "checklist_no_items": {
-    "message": "Aucun �l�ment trouv� dans cette liste"
+    "message": "Aucun �l�ment trouv�"
   },
   "checklist_only_selected_items": {
     "message": "Afficher uniquement les �l�ments s�lectionn�s"
@@ -46,7 +46,7 @@
     "message": "Rechercher"
   },
   "checklist_select_all": {
-    "message": "S�lectionner tous les �l�ments de la liste de v�rification"
+    "message": "Tout s�lectionner"
   },
   "chevron_collapse": {
     "message": "R�duire"
@@ -274,7 +274,7 @@
     "message": "Description"
   },
   "grid_column_picker_header": {
-    "message": "Choisir les colonnes � afficher"
+    "message": "Choisir les colonnes � afficher dans la liste"
   },
   "grid_column_picker_name_header": {
     "message": "Colonne"

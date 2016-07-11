@@ -1,5 +1,5 @@
 {
-  "_LRM_PKTAG831": "skyux-l10n_5_3 - CHANGES-ONLY",
+  "_LRM_PKTAG902": "skyux-l10n_6_3 - CHANGES-ONLY",
   "action_bar_actions": {
     "message": "_End-point_"
   },
@@ -34,10 +34,10 @@
     "message": "Select item"
   },
   "checklist_clear_all": {
-    "message": "Clear all checklist items"
+    "message": "Clear all"
   },
   "checklist_no_items": {
-    "message": "No items found in this list"
+    "message": "No items found"
   },
   "checklist_only_selected_items": {
     "message": "Only show selected items"
@@ -46,7 +46,7 @@
     "message": "Search"
   },
   "checklist_select_all": {
-    "message": "Select all checklist items"
+    "message": "Select all"
   },
   "chevron_collapse": {
     "message": "Collapse"
@@ -274,7 +274,7 @@
     "message": "_Quantitatively_"
   },
   "grid_column_picker_header": {
-    "message": "Choose the columns to show"
+    "message": "Choose columns to show in the list"
   },
   "grid_column_picker_name_header": {
     "message": "_Scotland_"
