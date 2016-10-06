@@ -1,10 +1,10 @@
 {
-  "_LRM_PKTAG884": "skyux-l10n_6_4 - CHANGES-ONLY",
+  "_LRM_PKTAG41": "skyux-l10n_1_4 - CHANGES-ONLY",
   "action_bar_actions": {
-    "message": "_Flow-rate_"
+    "message": "Actions"
   },
   "alert_close": {
-    "message": "_Sectors_"
+    "message": "Close"
   },
   "autonumeric_abbr_billions": {
     "message": "B"
@@ -58,88 +58,88 @@
     "message": "Context menu"
   },
   "date_field_invalid_date_message": {
-    "message": "_Breakage animals a premium shape_"
+    "message": "Please enter a valid date"
   },
   "date_range_picker_at_any_time": {
-    "message": "_Ppm like again_"
+    "message": "At any time"
   },
   "date_range_picker_filter_description_at_any_time": {
-    "message": "_{0} und HERE issue_"
+    "message": "{0} at any time"
   },
   "date_range_picker_filter_description_last_calendar_year": {
-    "message": "_{0} exist fever investment Dutch_"
+    "message": "{0} from last calendar year"
   },
   "date_range_picker_filter_description_last_fiscal_year": {
-    "message": "_{0} aimed discs survival human_"
+    "message": "{0} from last fiscal year"
   },
   "date_range_picker_filter_description_last_month": {
-    "message": "_{0} enjoy honey Journal_"
+    "message": "{0} from last month"
   },
   "date_range_picker_filter_description_last_quarter": {
-    "message": "_{0} house LAPSE Labelling_"
+    "message": "{0} from last quarter"
   },
   "date_range_picker_filter_description_last_week": {
-    "message": "_{0} Union proof Ecoin_"
+    "message": "{0} from last week"
   },
   "date_range_picker_filter_description_next_calendar_year": {
-    "message": "_{0} tube drawn determines valve_"
+    "message": "{0} for next calendar year"
   },
   "date_range_picker_filter_description_next_fiscal_year": {
-    "message": "_{0} warm belts furnaces Amber_"
+    "message": "{0} for next fiscal year"
   },
   "date_range_picker_filter_description_next_month": {
-    "message": "_{0} wall whose showers_"
+    "message": "{0} for next month"
   },
   "date_range_picker_filter_description_next_quarter": {
-    "message": "_{0} Stir metal TRANSFERS_"
+    "message": "{0} for next quarter"
   },
   "date_range_picker_filter_description_next_week": {
-    "message": "_{0} owed beams abuse_"
+    "message": "{0} for next week"
   },
   "date_range_picker_filter_description_specific_range": {
     "message": "{0} from {1} to {2}"
   },
   "date_range_picker_filter_description_this_calendar_year": {
-    "message": "_{0} draw comes tolerances tubes_"
+    "message": "{0} for this calendar year"
   },
   "date_range_picker_filter_description_this_fiscal_year": {
-    "message": "_{0} cell gases together build_"
+    "message": "{0} for this fiscal year"
   },
   "date_range_picker_filter_description_this_month": {
-    "message": "_{0} sous broad ballast_"
+    "message": "{0} for this month"
   },
   "date_range_picker_filter_description_this_quarter": {
-    "message": "_{0} Iris belts OBTAINING_"
+    "message": "{0} for this quarter"
   },
   "date_range_picker_filter_description_this_week": {
-    "message": "_{0} melt widow local_"
+    "message": "{0} for this week"
   },
   "date_range_picker_filter_description_today": {
-    "message": "_{0} e.g. LOWERED_"
+    "message": "{0} for today"
   },
   "date_range_picker_filter_description_tomorrow": {
-    "message": "_{0} room HEPTACHLOR_"
+    "message": "{0} for tomorrow"
   },
   "date_range_picker_filter_description_yesterday": {
-    "message": "_{0} strap implications_"
+    "message": "{0} from yesterday"
   },
   "date_range_picker_from_date": {
     "message": "From date"
   },
   "date_range_picker_last_calendar_year": {
-    "message": "_Naked Federation media_"
+    "message": "Last calendar year"
   },
   "date_range_picker_last_fiscal_year": {
-    "message": "_Apply Uncooked towed_"
+    "message": "Last fiscal year"
   },
   "date_range_picker_last_month": {
-    "message": "_Limit protein_"
+    "message": "Last month"
   },
   "date_range_picker_last_quarter": {
-    "message": "_Cells voluntary_"
+    "message": "Last quarter"
   },
   "date_range_picker_last_week": {
-    "message": "_Boric cases_"
+    "message": "Last week"
   },
   "date_range_picker_max_date_error": {
     "message": "Start date must be before end date"
@@ -148,58 +148,58 @@
     "message": "End date must be after start date"
   },
   "date_range_picker_next_calendar_year": {
-    "message": "_Joint negligence stock_"
+    "message": "Next calendar year"
   },
   "date_range_picker_next_fiscal_year": {
-    "message": "_Women mutually cones_"
+    "message": "Next fiscal year"
   },
   "date_range_picker_next_month": {
-    "message": "_These coastal_"
+    "message": "Next month"
   },
   "date_range_picker_next_quarter": {
-    "message": "_Sites naviguant_"
+    "message": "Next quarter"
   },
   "date_range_picker_next_week": {
-    "message": "_Slots abide_"
+    "message": "Next week"
   },
   "date_range_picker_specific_range": {
     "message": "Specific range"
   },
   "date_range_picker_this_calendar_year": {
-    "message": "_Zaken stabilized audit_"
+    "message": "This calendar year"
   },
   "date_range_picker_this_fiscal_year": {
-    "message": "_Taken definite waste_"
+    "message": "This fiscal year"
   },
   "date_range_picker_this_month": {
-    "message": "_These million_"
+    "message": "This month"
   },
   "date_range_picker_this_quarter": {
-    "message": "_Fifth employers_"
+    "message": "This quarter"
   },
   "date_range_picker_this_week": {
-    "message": "_Cause minor_"
+    "message": "This week"
   },
   "date_range_picker_to_date": {
     "message": "To date"
   },
   "date_range_picker_today": {
-    "message": "_General_"
+    "message": "Today"
   },
   "date_range_picker_tomorrow": {
-    "message": "_Water-bath_"
+    "message": "Tomorrow"
   },
   "date_range_picker_yesterday": {
-    "message": "_Conciliation_"
+    "message": "Yesterday"
   },
   "datepicker_clear": {
-    "message": "_Extends_"
+    "message": "Clear"
   },
   "datepicker_close": {
-    "message": "_Belge_"
+    "message": "Done"
   },
   "datepicker_today": {
-    "message": "_Acetone_"
+    "message": "Today"
   },
   "error_description_broken": {
     "message": "Try to refresh this page or come back later."
@@ -220,151 +220,151 @@
     "message": "OK"
   },
   "file_size_b_plural": {
-    "message": "_{0} Uruguay_"
+    "message": "{0} bytes"
   },
   "file_size_b_singular": {
-    "message": "_{0} amino_"
+    "message": "{0} byte"
   },
   "file_size_gb": {
-    "message": "_{0} lap_"
+    "message": "{0} GB"
   },
   "file_size_kb": {
-    "message": "_{0} DIP_"
+    "message": "{0} KB"
   },
   "file_size_mb": {
-    "message": "_{0} due_"
+    "message": "{0} MB"
   },
   "file_upload_drag_file_here": {
-    "message": "_Rules a wells these_"
+    "message": "Drag a file here"
   },
   "file_upload_drop_files_here": {
-    "message": "_Discs Failing power_"
+    "message": "Drop files here"
   },
   "file_upload_invalid_file": {
-    "message": "_Frame first nurse CRS unaltered_"
+    "message": "This file type is invalid"
   },
   "file_upload_link_placeholder": {
-    "message": "_walls://cork.inapplicable.said/enter_"
+    "message": "http://www.something.com/file"
   },
   "file_upload_or_click_to_browse": {
-    "message": "_EEG RIGIDLY bar DELEGATE_"
+    "message": "or click to browse"
   },
   "file_upload_paste_link": {
-    "message": "_Payment a Amber hit a turns_"
+    "message": "Paste a link to a file"
   },
   "file_upload_paste_link_done": {
-    "message": "_Shoes_"
+    "message": "Done"
   },
   "grid_action_bar_cancel_mobile_actions": {
-    "message": "_Two-year_"
+    "message": "Cancel"
   },
   "grid_action_bar_choose_action": {
-    "message": "_November had detached_"
+    "message": "Choose an action"
   },
   "grid_action_bar_clear_selection": {
-    "message": "_Movable Accumulators_"
+    "message": "Clear selection"
   },
   "grid_back_to_top": {
-    "message": "_Times rib your_"
+    "message": "Back to top"
   },
   "grid_column_picker_all_categories": {
     "message": "All categories"
   },
   "grid_column_picker_description_header": {
-    "message": "_Recommendation_"
+    "message": "Description"
   },
   "grid_column_picker_header": {
     "message": "Choose columns to show in the list"
   },
   "grid_column_picker_name_header": {
-    "message": "_Entrance_"
+    "message": "Column"
   },
   "grid_column_picker_search_no_columns": {
-    "message": "_Oil tampering discard_"
+    "message": "No columns found"
   },
   "grid_column_picker_search_placeholder": {
-    "message": "_Disperse ICE Fruit_"
+    "message": "Search by name"
   },
   "grid_column_picker_submit": {
-    "message": "_Members forwarded_"
+    "message": "Apply changes"
   },
   "grid_columns_button": {
-    "message": " _Likewise analysing_"
+    "message": " Choose columns"
   },
   "grid_filters_apply": {
-    "message": "_Burdens architect_"
+    "message": "Apply filters"
   },
   "grid_filters_button": {
-    "message": "_Commodity_"
+    "message": "Filters"
   },
   "grid_filters_clear": {
-    "message": "_Lawyers_"
+    "message": "Clear"
   },
   "grid_filters_header": {
-    "message": "_Divorced_"
+    "message": "Filter"
   },
   "grid_filters_hide": {
-    "message": "_Mutua_"
+    "message": "Hide"
   },
   "grid_filters_summary_header": {
-    "message": "_Filament:_"
+    "message": "Filter:"
   },
   "grid_load_more": {
-    "message": "_Pairs tests_"
+    "message": "Load more"
   },
   "grid_search_placeholder": {
-    "message": "_Apart bag mixed guard_"
+    "message": "Find in this list"
   },
   "modal_footer_cancel_button": {
-    "message": "_NUMERALS_"
+    "message": "Cancel"
   },
   "modal_footer_primary_button": {
-    "message": "_Moves_"
+    "message": "Save"
   },
   "month_short_april": {
-    "message": "_Game_"
+    "message": "Apr"
   },
   "month_short_august": {
-    "message": "_Thus_"
+    "message": "Aug"
   },
   "month_short_december": {
-    "message": "_Wife_"
+    "message": "Dec"
   },
   "month_short_february": {
-    "message": "_CALL_"
+    "message": "Feb"
   },
   "month_short_january": {
-    "message": "_Mark_"
+    "message": "Jan"
   },
   "month_short_july": {
-    "message": "_Plan_"
+    "message": "Jul"
   },
   "month_short_june": {
-    "message": "_EAEC_"
+    "message": "Jun"
   },
   "month_short_march": {
-    "message": "_Wild_"
+    "message": "Mar"
   },
   "month_short_may": {
-    "message": "_Arms_"
+    "message": "May"
   },
   "month_short_november": {
-    "message": "_Boil_"
+    "message": "Nov"
   },
   "month_short_october": {
-    "message": "_Some_"
+    "message": "Oct"
   },
   "month_short_september": {
-    "message": "_Levy_"
+    "message": "Sep"
   },
   "page_noaccess_button": {
-    "message": "_Received log a word-unforeseeable legal_"
+    "message": "Return to a non-classified page"
   },
   "page_noaccess_description": {
-    "message": "_Strains, very gram'a blank seasonal OCT Leeks rules.PCTs bill deems hood academic, together untreated owing formerly Advocates-general._"
+    "message": "Sorry, you don't have rights to this page.\nIf you feel you should, please contact your system administrator."
   },
   "page_noaccess_header": {
-    "message": "_NINTH vacancy, quickly'a submitted day leak RADAR_"
+    "message": "Move along, there's nothing to see here"
   },
   "reorder_top": {
     "message": "Top"
@@ -373,7 +373,7 @@
     "message": "Sorry, no matching records found"
   },
   "searchfield_searching": {
-    "message": "_Accumulation..._"
+    "message": "Searching..."
   },
   "selectfield_remove": {
     "message": "Remove"
@@ -397,21 +397,21 @@
     "message": "Close"
   },
   "text_expand_modal_title": {
-    "message": "_SUBSCRIBED April_"
+    "message": "Expanded view"
   },
   "text_expand_see_less": {
-    "message": "_Duly owned_"
+    "message": "See less"
   },
   "text_expand_see_more": {
-    "message": "_GAIN bases_"
+    "message": "See more"
   },
   "wizard_navigator_finish": {
-    "message": "_COMMERCE_"
+    "message": "Finish"
   },
   "wizard_navigator_next": {
-    "message": "_Their_"
+    "message": "Next"
   },
   "wizard_navigator_previous": {
-    "message": "_Extraction_"
+    "message": "Previous"
   }
 }
