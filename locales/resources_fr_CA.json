@@ -1,10 +1,10 @@
 {
-  "_LRM_PKTAG537": "skyux-l10n_6_2 - CHANGES-ONLY",
+  "_LRM_PKTAG822": "skyux-l10n_5_2 - FULL-FILE",
   "action_bar_actions": {
     "message": "Actions"
   },
   "alert_close": {
-    "message": "Close"
+    "message": "Fermer"
   },
   "autonumeric_abbr_billions": {
     "message": "b"
@@ -16,22 +16,22 @@
     "message": "k"
   },
   "avatar_error_not_image_description": {
-    "message": "Please choose a file that is a valid image."
+    "message": "Veuillez choisir un fichier qui soit une image valide."
   },
   "avatar_error_not_image_title": {
-    "message": "File is not an image."
+    "message": "Le fichier n'est pas une image."
   },
   "avatar_error_too_large_description": {
-    "message": "Please choose an image that is less than {0}."
+    "message": "Veuillez choisir une image de moins de {0}."
   },
   "avatar_error_too_large_title": {
-    "message": "File is too large."
+    "message": "Le fichier est trop gros."
   },
   "checklist_categories_label": {
-    "message": "Categories"
+    "message": "Cat�gories"
   },
   "checklist_check_title": {
-    "message": "Select item"
+    "message": "S�lectionnez l'article"
   },
   "checklist_clear_all": {
     "message": "Effacer tout"
@@ -40,235 +40,235 @@
     "message": "Aucun article n'a �t� trouv�"
   },
   "checklist_only_selected_items": {
-    "message": "Only show selected items"
+    "message": "Montrez uniquement les articles s�lectionn�s"
   },
   "checklist_search_label": {
-    "message": "Search"
+    "message": "Rechercher"
   },
   "checklist_select_all": {
     "message": "S�lectionner tout"
   },
   "chevron_collapse": {
-    "message": "Collapse"
+    "message": "R�duire"
   },
   "chevron_expand": {
-    "message": "Expand"
+    "message": "Agrandir"
   },
   "context_menu_default_label": {
-    "message": "Context menu"
+    "message": "Menu du contexte"
   },
   "date_field_invalid_date_message": {
-    "message": "Please enter a valid date"
+    "message": "Veuillez entrer une date valide"
   },
   "date_range_picker_at_any_time": {
-    "message": "At any time"
+    "message": "N'importe quand"
   },
   "date_range_picker_filter_description_at_any_time": {
-    "message": "{0} at any time"
+    "message": "{0} n'importe quand"
   },
   "date_range_picker_filter_description_last_calendar_year": {
-    "message": "{0} from last calendar year"
+    "message": "{0} depuis la derni�re ann�e civile"
   },
   "date_range_picker_filter_description_last_fiscal_year": {
-    "message": "{0} from last fiscal year"
+    "message": "{0} depuis le dernier exercice"
   },
   "date_range_picker_filter_description_last_month": {
-    "message": "{0} from last month"
+    "message": "{0} depuis le mois dernier"
   },
   "date_range_picker_filter_description_last_quarter": {
-    "message": "{0} from last quarter"
+    "message": "{0} depuis le dernier trimestre"
   },
   "date_range_picker_filter_description_last_week": {
-    "message": "{0} from last week"
+    "message": "{0} depuis la semaine derni�re"
   },
   "date_range_picker_filter_description_next_calendar_year": {
-    "message": "{0} for next calendar year"
+    "message": "{0} pour la prochaine ann�e civile"
   },
   "date_range_picker_filter_description_next_fiscal_year": {
-    "message": "{0} for next fiscal year"
+    "message": "{0} pour le prochain exercice"
   },
   "date_range_picker_filter_description_next_month": {
-    "message": "{0} for next month"
+    "message": "{0} pour le mois prochain"
   },
   "date_range_picker_filter_description_next_quarter": {
-    "message": "{0} for next quarter"
+    "message": "{0} pour le prochain trimestre"
   },
   "date_range_picker_filter_description_next_week": {
-    "message": "{0} for next week"
+    "message": "{0} pour semaine prochaine"
   },
   "date_range_picker_filter_description_specific_range": {
-    "message": "{0} from {1} to {2}"
+    "message": "{0} de {1} � {2}"
   },
   "date_range_picker_filter_description_this_calendar_year": {
-    "message": "{0} for this calendar year"
+    "message": "{0} pour cette ann�e civile"
   },
   "date_range_picker_filter_description_this_fiscal_year": {
-    "message": "{0} for this fiscal year"
+    "message": "{0} pour cet exercice"
   },
   "date_range_picker_filter_description_this_month": {
-    "message": "{0} for this month"
+    "message": "{0} pour ce mois"
   },
   "date_range_picker_filter_description_this_quarter": {
-    "message": "{0} for this quarter"
+    "message": "{0} pour ce trimestre"
   },
   "date_range_picker_filter_description_this_week": {
-    "message": "{0} for this week"
+    "message": "{0} pour cette semaine"
   },
   "date_range_picker_filter_description_today": {
-    "message": "{0} for today"
+    "message": "{0} pour aujourd'hui"
   },
   "date_range_picker_filter_description_tomorrow": {
-    "message": "{0} for tomorrow"
+    "message": "{0} pour demain"
   },
   "date_range_picker_filter_description_yesterday": {
-    "message": "{0} from yesterday"
+    "message": "{0} depuis hier"
   },
   "date_range_picker_from_date": {
-    "message": "From date"
+    "message": "� partir de la date du"
   },
   "date_range_picker_last_calendar_year": {
-    "message": "Last calendar year"
+    "message": "La derni�re ann�e civile"
   },
   "date_range_picker_last_fiscal_year": {
-    "message": "Last fiscal year"
+    "message": "Le dernier exercice"
   },
   "date_range_picker_last_month": {
-    "message": "Last month"
+    "message": "Le mois dernier"
   },
   "date_range_picker_last_quarter": {
-    "message": "Last quarter"
+    "message": "Le trimestre dernier"
   },
   "date_range_picker_last_week": {
-    "message": "Last week"
+    "message": "La semaine derni�re"
   },
   "date_range_picker_max_date_error": {
-    "message": "Start date must be before end date"
+    "message": "La date de d�but doit �tre avant la date de fin."
   },
   "date_range_picker_min_date_error": {
-    "message": "End date must be after start date"
+    "message": "La date de fin doit �tre apr�s la date de d�but."
   },
   "date_range_picker_next_calendar_year": {
-    "message": "Next calendar year"
+    "message": "La prochaine ann�e civile"
   },
   "date_range_picker_next_fiscal_year": {
-    "message": "Next fiscal year"
+    "message": "Le prochain exercice"
   },
   "date_range_picker_next_month": {
-    "message": "Next month"
+    "message": "Le mois prochain"
   },
   "date_range_picker_next_quarter": {
-    "message": "Next quarter"
+    "message": "Le trimestre prochain"
   },
   "date_range_picker_next_week": {
-    "message": "Next week"
+    "message": "La semaine prochaine"
   },
   "date_range_picker_specific_range": {
-    "message": "Specific range"
+    "message": "Plage sp�cifique"
   },
   "date_range_picker_this_calendar_year": {
-    "message": "This calendar year"
+    "message": "Cette ann�e civile"
   },
   "date_range_picker_this_fiscal_year": {
-    "message": "This fiscal year"
+    "message": "L'exercice en cours"
   },
   "date_range_picker_this_month": {
-    "message": "This month"
+    "message": "Ce mois"
   },
   "date_range_picker_this_quarter": {
-    "message": "This quarter"
+    "message": "Ce trimestre"
   },
   "date_range_picker_this_week": {
-    "message": "This week"
+    "message": "Cette semaine"
   },
   "date_range_picker_to_date": {
-    "message": "To date"
+    "message": "� ce jour"
   },
   "date_range_picker_today": {
-    "message": "Today"
+    "message": "Aujourd'hui"
   },
   "date_range_picker_tomorrow": {
-    "message": "Tomorrow"
+    "message": "Demain"
   },
   "date_range_picker_yesterday": {
-    "message": "Yesterday"
+    "message": "Hier"
   },
   "datepicker_clear": {
-    "message": "Clear"
+    "message": "Effacer"
   },
   "datepicker_close": {
-    "message": "Done"
+    "message": "Ex�cut�"
   },
   "datepicker_today": {
-    "message": "Today"
+    "message": "Aujourd'hui"
   },
   "error_description_broken": {
-    "message": "Try to refresh this page or come back later."
+    "message": "Essayez d'actualiser cette page ou revenez plus tard."
   },
   "error_description_construction": {
-    "message": "Thanks for your patience while improvements are made!\nPlease check back in a little while."
+    "message": "Merci de votre patience alors que nous apportons des am�liorations!\nVeuillez essayer � nouveau sous peu."
   },
   "error_title_broken": {
-    "message": "Sorry, something went wrong."
+    "message": "D�sol�, quelque chose n'a pas fonctionn�."
   },
   "error_title_construction": {
-    "message": "This page will return soon."
+    "message": "Cette page r�appara�tra bient�t."
   },
   "error_title_notfound": {
-    "message": "Sorry, we can't reach that page."
+    "message": "D�sol�, nous ne pouvons pas atteindre cette page."
   },
   "errormodal_ok": {
     "message": "OK"
   },
   "file_size_b_plural": {
-    "message": "{0} bytes"
+    "message": "{0} octets"
   },
   "file_size_b_singular": {
-    "message": "{0} byte"
+    "message": "{0} octet"
   },
   "file_size_gb": {
-    "message": "{0} GB"
+    "message": "{0} Go"
   },
   "file_size_kb": {
-    "message": "{0} KB"
+    "message": "{0} Ko"
   },
   "file_size_mb": {
-    "message": "{0} MB"
+    "message": "{0} Mo"
   },
   "file_upload_drag_file_here": {
-    "message": "Drag a file here"
+    "message": "Faites glisser un fichier ici"
   },
   "file_upload_drop_files_here": {
-    "message": "Drop files here"
+    "message": "D�placez les fichiers ici"
   },
   "file_upload_invalid_file": {
-    "message": "This file type is invalid"
+    "message": "Ce type de fichier n'est pas valide"
   },
   "file_upload_link_placeholder": {
     "message": "http://www.something.com/file"
   },
   "file_upload_or_click_to_browse": {
-    "message": "or click to browse"
+    "message": "ou cliquez pour naviguer"
   },
   "file_upload_paste_link": {
-    "message": "Paste a link to a file"
+    "message": "Ins�rez un lien � un fichier"
   },
   "file_upload_paste_link_done": {
-    "message": "Done"
+    "message": "Ex�cut�"
   },
   "grid_action_bar_cancel_mobile_actions": {
-    "message": "Cancel"
+    "message": "Annuler"
   },
   "grid_action_bar_choose_action": {
-    "message": "Choose an action"
+    "message": "Choisir une action"
   },
   "grid_action_bar_clear_selection": {
-    "message": "Clear selection"
+    "message": "Effacer la s�lection"
   },
   "grid_back_to_top": {
-    "message": "Back to top"
+    "message": "Retour en haut"
   },
   "grid_column_picker_all_categories": {
-    "message": "All categories"
+    "message": "Toutes les cat�gories"
   },
   "grid_column_picker_description_header": {
     "message": "Description"
@@ -277,61 +277,61 @@
     "message": "Choisir les colonnes � indiquer dans la liste"
   },
   "grid_column_picker_name_header": {
-    "message": "Column"
+    "message": "Colonne"
   },
   "grid_column_picker_search_no_columns": {
-    "message": "No columns found"
+    "message": "Aucune colonne n'a �t� trouv�e"
   },
   "grid_column_picker_search_placeholder": {
-    "message": "Search by name"
+    "message": "Recherchez selon le nom"
   },
   "grid_column_picker_submit": {
-    "message": "Apply changes"
+    "message": "Appliquez les changements"
   },
   "grid_columns_button": {
-    "message": " Choose columns"
+    "message": " Choisissez les colonnes"
   },
   "grid_filters_apply": {
-    "message": "Apply filters"
+    "message": "Appliquez les filtres"
   },
   "grid_filters_button": {
-    "message": "Filters"
+    "message": "Filtres"
   },
   "grid_filters_clear": {
-    "message": "Clear"
+    "message": "Effacer"
   },
   "grid_filters_header": {
-    "message": "Filter"
+    "message": "Filtre"
   },
   "grid_filters_hide": {
-    "message": "Hide"
+    "message": "Dissimuler"
   },
   "grid_filters_summary_header": {
-    "message": "Filter:"
+    "message": "Filtre :"
   },
   "grid_load_more": {
-    "message": "Load more"
+    "message": "Charger encore"
   },
   "grid_search_placeholder": {
-    "message": "Find in this list"
+    "message": "Trouver dans cette liste"
   },
   "modal_footer_cancel_button": {
-    "message": "Cancel"
+    "message": "Annuler"
   },
   "modal_footer_primary_button": {
-    "message": "Save"
+    "message": "Sauvegarder"
   },
   "month_short_april": {
-    "message": "Apr"
+    "message": "Avr"
   },
   "month_short_august": {
-    "message": "Aug"
+    "message": "Ao�"
   },
   "month_short_december": {
-    "message": "Dec"
+    "message": "D�c"
   },
   "month_short_february": {
-    "message": "Feb"
+    "message": "F�v"
   },
   "month_short_january": {
     "message": "Jan"
@@ -340,13 +340,13 @@
     "message": "Jul"
   },
   "month_short_june": {
-    "message": "Jun"
+    "message": "Jui"
   },
   "month_short_march": {
     "message": "Mar"
   },
   "month_short_may": {
-    "message": "May"
+    "message": "Mai"
   },
   "month_short_november": {
     "message": "Nov"
@@ -358,60 +358,60 @@
     "message": "Sep"
   },
   "page_noaccess_button": {
-    "message": "Return to a non-classified page"
+    "message": "Retournez vers une page non classifi�e"
   },
   "page_noaccess_description": {
-    "message": "Sorry, you don't have rights to this page.\nIf you feel you should, please contact your system administrator."
+    "message": "D�sol�, vous n'avez pas droit � cette page.\nIf si vous pensez que vous y avez droit, veuillez prendre contact avec votre administrateur de syst�me."
   },
   "page_noaccess_header": {
-    "message": "Move along, there's nothing to see here"
+    "message": "Avancez, il n'y a rien � voir ici"
   },
   "reorder_top": {
-    "message": "Top"
+    "message": "Haut"
   },
   "searchfield_no_records": {
-    "message": "Sorry, no matching records found"
+    "message": "D�sol�, aucun dossier correspondant n'a �t� trouv�"
   },
   "searchfield_searching": {
-    "message": "Searching..."
+    "message": "Recherche..."
   },
   "selectfield_remove": {
-    "message": "Remove"
+    "message": "Enlever"
   },
   "selectfield_summary_text": {
-    "message": "{0} items selected"
+    "message": "{0} articles s�lectionn�s"
   },
   "selectfieldpicker_clear": {
-    "message": "Clear selection"
+    "message": "Effacer la s�lection"
   },
   "selectfieldpicker_select": {
-    "message": "Select"
+    "message": "S�lectionner"
   },
   "selectfieldpicker_select_value": {
-    "message": "Select value"
+    "message": "S�lectionner une valeur"
   },
   "selectfieldpicker_select_values": {
-    "message": "Select values"
+    "message": "S�lectionner des valeurs"
   },
   "text_expand_close_text": {
-    "message": "Close"
+    "message": "Fermer"
   },
   "text_expand_modal_title": {
-    "message": "Expanded view"
+    "message": "Vue agrandie"
   },
   "text_expand_see_less": {
-    "message": "See less"
+    "message": "Voir moins"
   },
   "text_expand_see_more": {
-    "message": "See more"
+    "message": "Voir plus"
   },
   "wizard_navigator_finish": {
-    "message": "Finish"
+    "message": "Terminer"
   },
   "wizard_navigator_next": {
-    "message": "Next"
+    "message": "Suivant"
   },
   "wizard_navigator_previous": {
-    "message": "Previous"
+    "message": "Pr�c�dent"
   }
 }
