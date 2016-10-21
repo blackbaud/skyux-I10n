@@ -1,5 +1,5 @@
 {
-  "_LRM_PKTAG335": "skyux-l10n_5_14 - CHANGES-ONLY",
+  "_LRM_PKTAG688": "skyux-l10n_6_14 - CHANGES-ONLY",
   "action_bar_actions": {
     "message": "Acciones"
   },
@@ -37,7 +37,7 @@
     "message": "Borrar todo"
   },
   "checklist_no_items": {
-    "message": "Ningún elemento encontrado"
+    "message": "Ning�n elemento encontrado"
   },
   "checklist_only_selected_items": {
     "message": "Mostrar solo art�culos seleccionados"
