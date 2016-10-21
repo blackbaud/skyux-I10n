@@ -1,5 +1,5 @@
 {
-  "_LRM_PKTAG822": "skyux-l10n_5_2 - FULL-FILE",
+  "_LRM_PKTAG465": "skyux-l10n_5_2 - FULL-FILE",
   "action_bar_actions": {
     "message": "Actions"
   },
@@ -28,10 +28,10 @@
     "message": "Le fichier est trop gros."
   },
   "checklist_categories_label": {
-    "message": "Cat�gories"
+    "message": "Catégories"
   },
   "checklist_check_title": {
-    "message": "S�lectionnez l'article"
+    "message": "Sélectionnez l'article"
   },
   "checklist_clear_all": {
     "message": "Effacer tout"
@@ -40,7 +40,7 @@
     "message": "Aucun article n'a �t� trouv�"
   },
   "checklist_only_selected_items": {
-    "message": "Montrez uniquement les articles s�lectionn�s"
+    "message": "Montrez uniquement les articles sélectionnés"
   },
   "checklist_search_label": {
     "message": "Rechercher"
@@ -49,7 +49,7 @@
     "message": "S�lectionner tout"
   },
   "chevron_collapse": {
-    "message": "R�duire"
+    "message": "Réduire"
   },
   "chevron_expand": {
     "message": "Agrandir"
@@ -67,7 +67,7 @@
     "message": "{0} n'importe quand"
   },
   "date_range_picker_filter_description_last_calendar_year": {
-    "message": "{0} depuis la derni�re ann�e civile"
+    "message": "{0} depuis la dernière année civile"
   },
   "date_range_picker_filter_description_last_fiscal_year": {
     "message": "{0} depuis le dernier exercice"
@@ -79,10 +79,10 @@
     "message": "{0} depuis le dernier trimestre"
   },
   "date_range_picker_filter_description_last_week": {
-    "message": "{0} depuis la semaine derni�re"
+    "message": "{0} depuis la semaine dernière"
   },
   "date_range_picker_filter_description_next_calendar_year": {
-    "message": "{0} pour la prochaine ann�e civile"
+    "message": "{0} pour la prochaine année civile"
   },
   "date_range_picker_filter_description_next_fiscal_year": {
     "message": "{0} pour le prochain exercice"
@@ -97,10 +97,10 @@
     "message": "{0} pour semaine prochaine"
   },
   "date_range_picker_filter_description_specific_range": {
-    "message": "{0} de {1} � {2}"
+    "message": "{0} de {1} à {2}"
   },
   "date_range_picker_filter_description_this_calendar_year": {
-    "message": "{0} pour cette ann�e civile"
+    "message": "{0} pour cette année civile"
   },
   "date_range_picker_filter_description_this_fiscal_year": {
     "message": "{0} pour cet exercice"
@@ -124,10 +124,10 @@
     "message": "{0} depuis hier"
   },
   "date_range_picker_from_date": {
-    "message": "� partir de la date du"
+    "message": "À partir de la date du"
   },
   "date_range_picker_last_calendar_year": {
-    "message": "La derni�re ann�e civile"
+    "message": "La dernière année civile"
   },
   "date_range_picker_last_fiscal_year": {
     "message": "Le dernier exercice"
@@ -139,16 +139,16 @@
     "message": "Le trimestre dernier"
   },
   "date_range_picker_last_week": {
-    "message": "La semaine derni�re"
+    "message": "La semaine dernière"
   },
   "date_range_picker_max_date_error": {
-    "message": "La date de d�but doit �tre avant la date de fin."
+    "message": "La date de début doit être avant la date de fin."
   },
   "date_range_picker_min_date_error": {
-    "message": "La date de fin doit �tre apr�s la date de d�but."
+    "message": "La date de fin doit être après la date de début."
   },
   "date_range_picker_next_calendar_year": {
-    "message": "La prochaine ann�e civile"
+    "message": "La prochaine année civile"
   },
   "date_range_picker_next_fiscal_year": {
     "message": "Le prochain exercice"
@@ -163,10 +163,10 @@
     "message": "La semaine prochaine"
   },
   "date_range_picker_specific_range": {
-    "message": "Plage sp�cifique"
+    "message": "Plage spécifique"
   },
   "date_range_picker_this_calendar_year": {
-    "message": "Cette ann�e civile"
+    "message": "Cette année civile"
   },
   "date_range_picker_this_fiscal_year": {
     "message": "L'exercice en cours"
@@ -181,7 +181,7 @@
     "message": "Cette semaine"
   },
   "date_range_picker_to_date": {
-    "message": "� ce jour"
+    "message": "À ce jour"
   },
   "date_range_picker_today": {
     "message": "Aujourd'hui"
@@ -196,7 +196,7 @@
     "message": "Effacer"
   },
   "datepicker_close": {
-    "message": "Ex�cut�"
+    "message": "Exécuté"
   },
   "datepicker_today": {
     "message": "Aujourd'hui"
@@ -205,16 +205,16 @@
     "message": "Essayez d'actualiser cette page ou revenez plus tard."
   },
   "error_description_construction": {
-    "message": "Merci de votre patience alors que nous apportons des am�liorations!\nVeuillez essayer � nouveau sous peu."
+    "message": "Merci de votre patience alors que nous apportons des améliorations!\nVeuillez essayer à nouveau sous peu."
   },
   "error_title_broken": {
-    "message": "D�sol�, quelque chose n'a pas fonctionn�."
+    "message": "Désolé, quelque chose n'a pas fonctionné."
   },
   "error_title_construction": {
-    "message": "Cette page r�appara�tra bient�t."
+    "message": "Cette page réapparaîtra bientôt."
   },
   "error_title_notfound": {
-    "message": "D�sol�, nous ne pouvons pas atteindre cette page."
+    "message": "Désolé, nous ne pouvons pas atteindre cette page."
   },
   "errormodal_ok": {
     "message": "OK"
@@ -238,7 +238,7 @@
     "message": "Faites glisser un fichier ici"
   },
   "file_upload_drop_files_here": {
-    "message": "D�placez les fichiers ici"
+    "message": "Déplacez les fichiers ici"
   },
   "file_upload_invalid_file": {
     "message": "Ce type de fichier n'est pas valide"
@@ -250,10 +250,10 @@
     "message": "ou cliquez pour naviguer"
   },
   "file_upload_paste_link": {
-    "message": "Ins�rez un lien � un fichier"
+    "message": "Insérez un lien à un fichier"
   },
   "file_upload_paste_link_done": {
-    "message": "Ex�cut�"
+    "message": "Exécuté"
   },
   "grid_action_bar_cancel_mobile_actions": {
     "message": "Annuler"
@@ -262,13 +262,13 @@
     "message": "Choisir une action"
   },
   "grid_action_bar_clear_selection": {
-    "message": "Effacer la s�lection"
+    "message": "Effacer la sélection"
   },
   "grid_back_to_top": {
     "message": "Retour en haut"
   },
   "grid_column_picker_all_categories": {
-    "message": "Toutes les cat�gories"
+    "message": "Toutes les catégories"
   },
   "grid_column_picker_description_header": {
     "message": "Description"
@@ -280,7 +280,7 @@
     "message": "Colonne"
   },
   "grid_column_picker_search_no_columns": {
-    "message": "Aucune colonne n'a �t� trouv�e"
+    "message": "Aucune colonne n'a été trouvée"
   },
   "grid_column_picker_search_placeholder": {
     "message": "Recherchez selon le nom"
@@ -325,13 +325,13 @@
     "message": "Avr"
   },
   "month_short_august": {
-    "message": "Ao�"
+    "message": "Aoû"
   },
   "month_short_december": {
-    "message": "D�c"
+    "message": "Déc"
   },
   "month_short_february": {
-    "message": "F�v"
+    "message": "Fév"
   },
   "month_short_january": {
     "message": "Jan"
@@ -358,19 +358,19 @@
     "message": "Sep"
   },
   "page_noaccess_button": {
-    "message": "Retournez vers une page non classifi�e"
+    "message": "Retournez vers une page non classifiée"
   },
   "page_noaccess_description": {
-    "message": "D�sol�, vous n'avez pas droit � cette page.\nIf si vous pensez que vous y avez droit, veuillez prendre contact avec votre administrateur de syst�me."
+    "message": "Désolé, vous n'avez pas droit à cette page.\nIf si vous pensez que vous y avez droit, veuillez prendre contact avec votre administrateur de système."
   },
   "page_noaccess_header": {
-    "message": "Avancez, il n'y a rien � voir ici"
+    "message": "Avancez, il n'y a rien à voir ici"
   },
   "reorder_top": {
     "message": "Haut"
   },
   "searchfield_no_records": {
-    "message": "D�sol�, aucun dossier correspondant n'a �t� trouv�"
+    "message": "Désolé, aucun dossier correspondant n'a été trouvé"
   },
   "searchfield_searching": {
     "message": "Recherche..."
@@ -379,19 +379,19 @@
     "message": "Enlever"
   },
   "selectfield_summary_text": {
-    "message": "{0} articles s�lectionn�s"
+    "message": "{0} articles sélectionnés"
   },
   "selectfieldpicker_clear": {
-    "message": "Effacer la s�lection"
+    "message": "Effacer la sélection"
   },
   "selectfieldpicker_select": {
-    "message": "S�lectionner"
+    "message": "Sélectionner"
   },
   "selectfieldpicker_select_value": {
-    "message": "S�lectionner une valeur"
+    "message": "Sélectionner une valeur"
   },
   "selectfieldpicker_select_values": {
-    "message": "S�lectionner des valeurs"
+    "message": "Sélectionner des valeurs"
   },
   "text_expand_close_text": {
     "message": "Fermer"
@@ -412,6 +412,6 @@
     "message": "Suivant"
   },
   "wizard_navigator_previous": {
-    "message": "Pr�c�dent"
+    "message": "Précédent"
   }
 }
