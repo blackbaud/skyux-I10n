@@ -26,6 +26,15 @@
   "avatar_error_too_large_title": {
     "message": "[Ƒîļé îš ţöö ļåŕĝé.----------- П國カ내]"
   },
+  "carousel_button_label_next": {
+    "message": "[Ĝö ţö ñéẋţ îţéɱ-------- П國カ내]"
+  },
+  "carousel_button_label_previous": {
+    "message": "[Ĝö ţö þŕéṽîöûš îţéɱ------------ П國カ내]"
+  },
+  "carousel_dot_label": {
+    "message": "[Ĝö ţö îţéɱ {0}------- П國カ내]"
+  },
   "checklist_categories_label": {
     "message": "[Çåţéĝöŕîéš------------- П國カ내]"
   },
@@ -197,8 +206,14 @@
   "datepicker_close": {
     "message": "[Ðöñé- П國カ내]"
   },
+  "datepicker_open": {
+    "message": "[Öþéñ ðåţéþîçķéŕ-------- П國カ내]"
+  },
   "datepicker_today": {
     "message": "[Ţöðåý--- П國カ내]"
+  },
+  "definition_list_none_found": {
+    "message": "[Ñöñé ƒöûñð------------- П國カ내]"
   },
   "error_description_broken": {
     "message": "[Ţŕý ţö ŕéƒŕéšĥ ţĥîš þåĝé öŕ çöɱé ƀåçķ ļåţéŕ.------------------- П國カ내]"
@@ -218,6 +233,9 @@
   "errormodal_ok": {
     "message": "[ÖĶ П]"
   },
+  "file_item_delete": {
+    "message": "[Ðéļéţé ƒîļé---- П國カ내]"
+  },
   "file_size_b_plural": {
     "message": "[{0} ƀýţéš----------- П國カ내]"
   },
@@ -236,11 +254,17 @@
   "file_upload_drag_file_here": {
     "message": "[Ðŕåĝ å ƒîļé ĥéŕé--------- П國カ내]"
   },
+  "file_upload_drag_or_click": {
+    "message": "[Ðŕåĝ å ƒîļé ĥéŕé öŕ çļîçķ ţö ƀŕöŵšé-------------- П國カ내]"
+  },
   "file_upload_drop_files_here": {
     "message": "[Ðŕöþ ƒîļéš ĥéŕé-------- П國カ내]"
   },
   "file_upload_invalid_file": {
     "message": "[Ţĥîš ƒîļé ţýþé îš îñṽåļîð------------- П國カ내]"
+  },
+  "file_upload_link_input": {
+    "message": "[Åðð å ļîñķ ţö å ƒîļé------------- П國カ내]"
   },
   "file_upload_link_placeholder": {
     "message": "[ĥţţþ://ŵŵŵ.šöɱéţĥîñĝ.çöɱ/ƒîļé---------------- П國カ내]"
@@ -253,6 +277,21 @@
   },
   "file_upload_paste_link_done": {
     "message": "[Ðöñé- П國カ내]"
+  },
+  "filter_button_title": {
+    "message": "[Ƒîļţéŕš------- П國カ내]"
+  },
+  "filter_modal_apply": {
+    "message": "[Åþþļý ƒîļţéŕš------ П國カ내]"
+  },
+  "filter_modal_clear": {
+    "message": "[Çļéåŕ åļļ ƒîļţéŕš---------- П國カ내]"
+  },
+  "filter_summary_close": {
+    "message": "[Çļöšé--- П國カ내]"
+  },
+  "filter_summary_header": {
+    "message": "[Ƒîļţéŕ----- П國カ내]"
   },
   "grid_action_bar_cancel_mobile_actions": {
     "message": "[Çåñçéļ----- П國カ내]"
@@ -314,6 +353,21 @@
   "grid_search_placeholder": {
     "message": "[Ƒîñð îñ ţĥîš ļîšţ---------- П國カ내]"
   },
+  "infinite_scroll_load_more": {
+    "message": "[Ļöåð ɱöŕé----------- П國カ내]"
+  },
+  "listbuilder_add_title": {
+    "message": "[Åðð П國カ]"
+  },
+  "listbuilder_card_switcher": {
+    "message": "[Šŵîţçĥ ţö çåŕð ṽîéŵ------------ П國カ내]"
+  },
+  "listbuilder_footer_back_to_top": {
+    "message": "[Ɓåçķ ţö ţöþ---- П國カ내]"
+  },
+  "listbuilder_repeater_switcher": {
+    "message": "[Šŵîţçĥ ţö ŕéþéåţéŕ ṽîéŵ----------- П國カ내]"
+  },
   "modal_footer_cancel_button": {
     "message": "[Çåñçéļ----- П國カ내]"
   },
@@ -365,8 +419,26 @@
   "page_noaccess_header": {
     "message": "[Ṁöṽé åļöñĝ, ţĥéŕé'š ñöţĥîñĝ ţö šéé ĥéŕé---------------- П國カ내]"
   },
+  "pagination_next": {
+    "message": "[Ñéẋţ- П國カ내]"
+  },
+  "pagination_previous": {
+    "message": "[Þŕéṽîöûš--------- П國カ내]"
+  },
   "reorder_top": {
     "message": "[Ţöþ П國カ]"
+  },
+  "search_dismiss": {
+    "message": "[Ðîšɱîšš šéåŕçĥ------- П國カ내]"
+  },
+  "search_label": {
+    "message": "[Šéåŕçĥ îţéɱš----- П國カ내]"
+  },
+  "search_open": {
+    "message": "[Öþéñ šéåŕçĥ---- П國カ내]"
+  },
+  "search_placeholder": {
+    "message": "[Ƒîñð îñ ţĥîš ļîšţ---------- П國カ내]"
   },
   "searchfield_no_records": {
     "message": "[Šöŕŕý, ñö ɱåţçĥîñĝ ŕéçöŕðš ƒöûñð------------ П國カ내]"
@@ -392,6 +464,18 @@
   "selectfieldpicker_select_values": {
     "message": "[Šéļéçţ ṽåļûéš------ П國カ내]"
   },
+  "sort_button_label": {
+    "message": "[Šöŕţ- П國カ내]"
+  },
+  "sort_menu_heading": {
+    "message": "[Šöŕţ ƀý------- П國カ내]"
+  },
+  "tab_add": {
+    "message": "[Åðð ţåƀ------- П國カ내]"
+  },
+  "tab_open": {
+    "message": "[Öþéñ- П國カ내]"
+  },
   "text_expand_close_text": {
     "message": "[Çļöšé--- П國カ내]"
   },
@@ -403,6 +487,9 @@
   },
   "text_expand_see_more": {
     "message": "[Šéé ɱöŕé--------- П國カ내]"
+  },
+  "tile_chevron_label": {
+    "message": "[Éẋþåñð öŕ çöļļåþšé----------- П國カ내]"
   },
   "wizard_navigator_finish": {
     "message": "[Ƒîñîšĥ----- П國カ내]"
