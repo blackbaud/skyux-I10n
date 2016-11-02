@@ -543,6 +543,7 @@
         "_description": "Text for repeater view switcher",
         "message": "Switch to repeater view"
     },
+
     "modal_close": {
         "_description": "Text for modal close button",
         "message": "Close modal"
