@@ -202,7 +202,6 @@
   },
   "datepicker_clear": {
     "message": "[Çļéåŕ--- П國カ내]"
-<<<<<<< HEAD
   },
   "datepicker_close": {
     "message": "[Ðöñé- П國カ내]"
@@ -213,18 +212,6 @@
   "datepicker_today": {
     "message": "[Ţöðåý--- П國カ내]"
   },
-=======
-  },
-  "datepicker_close": {
-    "message": "[Ðöñé- П國カ내]"
-  },
-  "datepicker_open": {
-    "message": "[Öþéñ ðåţéþîçķéŕ-------- П國カ내]"
-  },
-  "datepicker_today": {
-    "message": "[Ţöðåý--- П國カ내]"
-  },
->>>>>>> automated-translations
   "definition_list_none_found": {
     "message": "[Ñöñé ƒöûñð------------- П國カ내]"
   },
@@ -366,13 +353,10 @@
   "grid_search_placeholder": {
     "message": "[Ƒîñð îñ ţĥîš ļîšţ---------- П國カ내]"
   },
-<<<<<<< HEAD
-=======
   "help_button_label": {
     "description": "[Ļåƀéļ ƒöŕ ţĥé ĥéļþ ƀûţţöñ------------- П國カ내]",
     "message": "[Öþéñ ĥéļþ----------- П國カ내]"
   },
->>>>>>> automated-translations
   "infinite_scroll_load_more": {
     "message": "[Ļöåð ɱöŕé----------- П國カ내]"
   },
@@ -388,12 +372,9 @@
   "listbuilder_repeater_switcher": {
     "message": "[Šŵîţçĥ ţö ŕéþéåţéŕ ṽîéŵ----------- П國カ내]"
   },
-<<<<<<< HEAD
-=======
   "modal_close": {
     "message": "[Çļöšé ɱöðåļ---- П國カ내]"
   },
->>>>>>> automated-translations
   "modal_footer_cancel_button": {
     "message": "[Çåñçéļ----- П國カ내]"
   },
@@ -496,8 +477,6 @@
   "sort_menu_heading": {
     "message": "[Šöŕţ ƀý------- П國カ내]"
   },
-<<<<<<< HEAD
-=======
   "summary_actionbar_hide_summary": {
     "message": "[Ĥîðé šûɱɱåŕý----- П國カ내]"
   },
@@ -507,7 +486,6 @@
   "summary_actionbar_show_summary": {
     "message": "[Šĥöŵ šûɱɱåŕý----- П國カ내]"
   },
->>>>>>> automated-translations
   "tab_add": {
     "message": "[Åðð ţåƀ------- П國カ내]"
   },
