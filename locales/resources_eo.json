@@ -369,8 +369,17 @@
   "listbuilder_footer_back_to_top": {
     "message": "[Ɓåçķ ţö ţöþ---- П國カ내]"
   },
+  "listbuilder_multiselect_clear_all": {
+    "message": "[Çļéåŕ åļļ----------- П國カ내]"
+  },
+  "listbuilder_multiselect_select_all": {
+    "message": "[Šéļéçţ åļļ------------- П國カ내]"
+  },
   "listbuilder_repeater_switcher": {
     "message": "[Šŵîţçĥ ţö ŕéþéåţéŕ ṽîéŵ----------- П國カ내]"
+  },
+  "listbuilder_show_only_selected": {
+    "message": "[Šĥöŵ öñļý šéļéçţéð----------- П國カ내]"
   },
   "modal_close": {
     "message": "[Çļöšé ɱöðåļ---- П國カ내]"
