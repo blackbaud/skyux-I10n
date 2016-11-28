@@ -1,5 +1,5 @@
 {
-  "_LRM_PKTAG763": "skyux-l10n_9_15 - CHANGES-ONLY",
+  "_LRM_PKTAG148": "skyux-l10n_10_15 - CHANGES-ONLY",
   "action_bar_actions": {
     "message": "Azioni"
   },
@@ -26,6 +26,9 @@
   },
   "avatar_error_too_large_title": {
     "message": "Il file è troppo grande."
+  },
+  "card_select": {
+    "message": "Seleziona scheda"
   },
   "carousel_button_label_next": {
     "message": "Vai all’elemento successivo"
